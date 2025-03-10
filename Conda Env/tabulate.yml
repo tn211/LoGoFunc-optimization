@@ -25,4 +25,3 @@ dependencies:
   - yapf
   - black
   - prettytable
-prefix: /Users/benzenesea/mambaforge/envs/tabulate
