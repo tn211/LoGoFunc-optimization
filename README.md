@@ -1,6 +1,8 @@
 ## Optimizing LoGoFunc:
 ### Comparative analysis of classifiers and feature selection techniques.
 
+This work expands upon the oringal LoGoFunc tool, which is [described here](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01261-9) and is available to [download here.](https://gitlab.com/itan-lab/logofunc)
+
 The full dissertation [can be found here. (PDF)](T_Nichols_Dissertation.pdf)
 
 **Note:** Before running any of the workspaces contained in this repo, you first need to copy the contents of the `Datasets` folder into the respective data folder within the workspace. These are moderately large datasets so this was done to save space.
