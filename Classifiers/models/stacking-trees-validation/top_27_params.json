@@ -1,0 +1,218 @@
+[
+  {
+    "rf__n_estimators": 50,
+    "rf__max_depth": 10,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 50,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": 10,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": null,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": null,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 100,
+    "et__max_depth": 20,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 50,
+    "rf__max_depth": null,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 50,
+    "rf__max_depth": 10,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": null,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": 20,
+    "final_estimator__C": 0.1,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": 20,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 50,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 50,
+    "rf__max_depth": 20,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 50,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": 20,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": null,
+    "final_estimator__C": 0.1,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 50,
+    "rf__max_depth": 20,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": null,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 50,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": 10,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": null,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 50,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": null,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 100,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 50,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": null,
+    "final_estimator__C": 1.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 100,
+    "rf__max_depth": 20,
+    "final_estimator__C": 100.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 10
+  },
+  {
+    "rf__n_estimators": 200,
+    "rf__max_depth": 20,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": 20
+  },
+  {
+    "rf__n_estimators": 50,
+    "rf__max_depth": 20,
+    "final_estimator__C": 10.0,
+    "et__n_estimators": 200,
+    "et__max_depth": null,
+    "dt__max_depth": null
+  }
+]

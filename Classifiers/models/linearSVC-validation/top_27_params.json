@@ -1,0 +1,275 @@
+[
+  {
+    "C": 356.8533266935893,
+    "class_weight": {
+      "0": 2,
+      "1": 1
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l2",
+    "tol": 1.2705645329288717e-05
+  },
+  {
+    "C": 772.3447692966574,
+    "class_weight": {
+      "0": 2,
+      "1": 1
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l2",
+    "tol": 1.1384639705304647e-06
+  },
+  {
+    "C": 139.59386065204183,
+    "class_weight": {
+      "0": 2,
+      "1": 1
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l2",
+    "tol": 8.532678095658724e-06
+  },
+  {
+    "C": 176.02525267734538,
+    "class_weight": {
+      "0": 2,
+      "1": 1
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 1000,
+    "penalty": "l2",
+    "tol": 2.0026211229345322e-05
+  },
+  {
+    "C": 25.51912674409519,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 0.0038287268393157052
+  },
+  {
+    "C": 942.953570557981,
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 4.414536876494481e-06
+  },
+  {
+    "C": 962.5472949421113,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l2",
+    "tol": 0.0007064515131755324
+  },
+  {
+    "C": 711.2495324380178,
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l2",
+    "tol": 0.0003807949336768562
+  },
+  {
+    "C": 596.950157946487,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 1.7073967431528114e-06
+  },
+  {
+    "C": 818.1147659224931,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 4.556416465223591e-06
+  },
+  {
+    "C": 374.6401188473625,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 0.0013145103232150123
+  },
+  {
+    "C": 181.92496720710062,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 1000,
+    "penalty": "l2",
+    "tol": 0.00027964859516062485
+  },
+  {
+    "C": 249.39222914887495,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 6.490003020716533e-06
+  },
+  {
+    "C": 502.7790232288615,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l1",
+    "tol": 2.400407594352162e-05
+  },
+  {
+    "C": 837.810105907328,
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l1",
+    "tol": 2.843767489444368e-06
+  },
+  {
+    "C": 755.4614103176525,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 2000,
+    "penalty": "l2",
+    "tol": 0.00015375920235481777
+  },
+  {
+    "C": 90.7064345328208,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l2",
+    "tol": 0.00011400863701127338
+  },
+  {
+    "C": 798.4451249845512,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l1",
+    "tol": 5.5728075000299646e-06
+  },
+  {
+    "C": 174.46642900499143,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l2",
+    "tol": 0.00011776206216380241
+  },
+  {
+    "C": 337.715171403628,
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l2",
+    "tol": 7.49992427239817e-06
+  },
+  {
+    "C": 184.95445552552704,
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 2000,
+    "penalty": "l2",
+    "tol": 6.295301484516133e-05
+  },
+  {
+    "C": 726.0556788702394,
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 10000,
+    "penalty": "l2",
+    "tol": 4.149851045848951e-05
+  },
+  {
+    "C": 34.4885211152184,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 1000,
+    "penalty": "l2",
+    "tol": 5.357280069601829e-06
+  },
+  {
+    "C": 940.2334424577784,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 1000,
+    "penalty": "l2",
+    "tol": 4.3977668944839625e-06
+  },
+  {
+    "C": 713.344787222995,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 1000,
+    "penalty": "l2",
+    "tol": 8.78900434140548e-06
+  },
+  {
+    "C": 369.7544560614045,
+    "class_weight": null,
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l2",
+    "tol": 2.9589152820953114e-05
+  },
+  {
+    "C": 539.4422419156507,
+    "class_weight": "balanced",
+    "dual": false,
+    "loss": "squared_hinge",
+    "max_iter": 5000,
+    "penalty": "l2",
+    "tol": 2.661897646793291e-05
+  }
+]

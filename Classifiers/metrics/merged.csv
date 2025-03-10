@@ -1,0 +1,11 @@
+source,accuracy,precision,recall,f1_score
+lightgbm,0.869,0.877,0.869,0.872
+lightgbm_pfam,0.865,0.873,0.865,0.868
+catboost,0.865,0.861,0.865,0.862
+xgboost,0.894,0.893,0.894,0.89
+adaboost,0.84,0.852,0.84,0.818
+linearsvc,0.772,0.86,0.772,0.805
+sgd,0.74,0.858,0.74,0.779
+extratrees,0.838,0.813,0.838,0.816
+stacking,0.841,0.797,0.841,0.818
+pytorch,0.823,0.861,0.823,0.837

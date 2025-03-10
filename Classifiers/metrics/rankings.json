@@ -1,0 +1,212 @@
+{
+    "accuracy": [
+        {
+            "source": "XGB",
+            "accuracy": 0.894
+        },
+        {
+            "source": "LGBM",
+            "accuracy": 0.869
+        },
+        {
+            "source": "LGBM-P",
+            "accuracy": 0.865
+        },
+        {
+            "source": "CTB",
+            "accuracy": 0.865
+        },
+        {
+            "source": "MLP",
+            "accuracy": 0.849
+        },
+        {
+            "source": "STACK",
+            "accuracy": 0.841
+        },
+        {
+            "source": "ADB",
+            "accuracy": 0.84
+        },
+        {
+            "source": "EXT",
+            "accuracy": 0.838
+        },
+        {
+            "source": "LSVC",
+            "accuracy": 0.772
+        },
+        {
+            "source": "SGD",
+            "accuracy": 0.74
+        }
+    ],
+    "precision": [
+        {
+            "source": "XGB",
+            "precision": 0.893
+        },
+        {
+            "source": "LGBM",
+            "precision": 0.877
+        },
+        {
+            "source": "LGBM-P",
+            "precision": 0.873
+        },
+        {
+            "source": "CTB",
+            "precision": 0.861
+        },
+        {
+            "source": "LSVC",
+            "precision": 0.86
+        },
+        {
+            "source": "SGD",
+            "precision": 0.858
+        },
+        {
+            "source": "ADB",
+            "precision": 0.852
+        },
+        {
+            "source": "MLP",
+            "precision": 0.84
+        },
+        {
+            "source": "EXT",
+            "precision": 0.813
+        },
+        {
+            "source": "STACK",
+            "precision": 0.797
+        }
+    ],
+    "micro_recall": [
+        {
+            "source": "XGB",
+            "micro_recall": 0.894
+        },
+        {
+            "source": "LGBM",
+            "micro_recall": 0.869
+        },
+        {
+            "source": "LGBM-P",
+            "micro_recall": 0.865
+        },
+        {
+            "source": "CTB",
+            "micro_recall": 0.865
+        },
+        {
+            "source": "MLP",
+            "micro_recall": 0.849
+        },
+        {
+            "source": "STACK",
+            "micro_recall": 0.841
+        },
+        {
+            "source": "ADB",
+            "micro_recall": 0.84
+        },
+        {
+            "source": "EXT",
+            "micro_recall": 0.838
+        },
+        {
+            "source": "LSVC",
+            "micro_recall": 0.772
+        },
+        {
+            "source": "SGD",
+            "micro_recall": 0.74
+        }
+    ],
+    "macro_recall": [
+        {
+            "source": "LGBM",
+            "macro_recall": 0.816
+        },
+        {
+            "source": "LGBM-P",
+            "macro_recall": 0.813
+        },
+        {
+            "source": "SGD",
+            "macro_recall": 0.768
+        },
+        {
+            "source": "XGB",
+            "macro_recall": 0.756
+        },
+        {
+            "source": "LSVC",
+            "macro_recall": 0.742
+        },
+        {
+            "source": "CTB",
+            "macro_recall": 0.73
+        },
+        {
+            "source": "MLP",
+            "macro_recall": 0.66
+        },
+        {
+            "source": "ADB",
+            "macro_recall": 0.594
+        },
+        {
+            "source": "EXT",
+            "macro_recall": 0.592
+        },
+        {
+            "source": "STACK",
+            "macro_recall": 0.592
+        }
+    ],
+    "f1_score": [
+        {
+            "source": "XGB",
+            "f1_score": 0.89
+        },
+        {
+            "source": "LGBM",
+            "f1_score": 0.872
+        },
+        {
+            "source": "LGBM-P",
+            "f1_score": 0.868
+        },
+        {
+            "source": "CTB",
+            "f1_score": 0.862
+        },
+        {
+            "source": "MLP",
+            "f1_score": 0.842
+        },
+        {
+            "source": "ADB",
+            "f1_score": 0.818
+        },
+        {
+            "source": "STACK",
+            "f1_score": 0.818
+        },
+        {
+            "source": "EXT",
+            "f1_score": 0.816
+        },
+        {
+            "source": "LSVC",
+            "f1_score": 0.805
+        },
+        {
+            "source": "SGD",
+            "f1_score": 0.779
+        }
+    ]
+}

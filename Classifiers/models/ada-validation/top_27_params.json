@@ -1,0 +1,245 @@
+[
+  {
+    "n_estimators": 200,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 4,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 200,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 4,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME"
+  },
+  {
+    "n_estimators": 200,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 100,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 4,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 100,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.021544346900318832,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 100,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 4,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 4,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.021544346900318832,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 4,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.021544346900318832,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 200,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 400,
+    "learning_rate": 0.46415888336127775,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 200,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 10,
+    "base_estimator__min_samples_leaf": 4,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 2,
+    "base_estimator__min_samples_leaf": 2,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "entropy",
+    "algorithm": "SAMME.R"
+  },
+  {
+    "n_estimators": 300,
+    "learning_rate": 0.1,
+    "base_estimator__min_samples_split": 5,
+    "base_estimator__min_samples_leaf": 1,
+    "base_estimator__max_depth": 5,
+    "base_estimator__criterion": "gini",
+    "algorithm": "SAMME.R"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.1
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 1.0,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "l1",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.75,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "l1",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.0,
+    "base_estimator__eta0": 0.001,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "l1",
+    "base_estimator__learning_rate": "invscaling",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 0.75,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "invscaling",
+    "base_estimator__l1_ratio": 1.0,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.25,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "invscaling",
+    "base_estimator__l1_ratio": 0.25,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "invscaling",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.25,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.0,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.75,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 0.0,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.01
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.0,
+    "base_estimator__eta0": 0.001,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "l1",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.25,
+    "base_estimator__eta0": 0.001,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "invscaling",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "invscaling",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "optimal",
+    "base_estimator__l1_ratio": 0.25,
+    "base_estimator__eta0": 0.001,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.0001
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 0.5,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.75,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 0.0,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": "balanced",
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.5,
+    "base_estimator__penalty": "elasticnet",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 0.0,
+    "base_estimator__eta0": 0.1,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  },
+  {
+    "base_estimator__power_t": 0.25,
+    "base_estimator__penalty": "l2",
+    "base_estimator__learning_rate": "adaptive",
+    "base_estimator__l1_ratio": 0.75,
+    "base_estimator__eta0": 0.01,
+    "base_estimator__class_weight": null,
+    "base_estimator__alpha": 0.001
+  }
+]
