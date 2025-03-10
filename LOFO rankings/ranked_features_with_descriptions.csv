@@ -1,0 +1,501 @@
+Rank,Feature Name,Description
+1,gnomAD_exomes_AF,
+2,before_ANCHOR_15,
+3,Recessive_probability,Prediction of variants pathogenic for autosomal recessive disease.
+4,MMSp_acceptorIntron,MMSplice acceptor intron (intron 3’) score.
+5,Dist2Mutation,Distance between the closest BRAVO SNV up and downstream (position itself excluded).
+6,TSSDistance,The distance from the transcription start site for upstream variants
+7,before_ANCHOR_3,
+8,REQUIRED_FOR_INTER,Uniprot region required for interaction.
+9,after_ANCHOR_8,
+10,before_RSA_3,
+11,cHmm_E14,Number of 48 cell types in chromHMM state E14.
+12,before_ASA_3,
+13,before_ASA_8,
+14,Mn2+_binding_gbind,GraphBind ligand score.
+15,distance_com,The residue distance from the protein center of mass calculated from AlphaFold models.
+16,after_ANCHOR_3,
+17,after_IUPRED_15,
+18,before_IUPRED_8,
+19,gnomAD_genomes_AF,
+20,before_ASA_15,
+21,RNA_binding_gbind,GraphBind ligand score.
+22,A3D_SCORE,Aggrescan3D score calculated on AlphaFold models.
+23,Rare100bp,Number of rare (MAF < 0.05) BRAVO SNV in 100 bp window nearby.
+24,REGION,Uniprot region.
+25,ATP_binding_gbind,GraphBind ligand score.
+26,PTM,"1 if residue has any PTM, else 0."
+27,DNA_binding_gbind,GraphBind ligand score.
+28,after_RSA_15,
+29,after_RSA_8,
+30,UK10K_AF,UK10K allele frequency.
+31,VEST4_score,VEST4 score.
+32,MMSp_exon,MMSplice exon score.
+33,MMSp_donor,MMSplice donor score.
+34,IUPRED2,Disordered protein region prediction.
+35,before_IUPRED_3,
+36,SpliceAI-don-gain,Masked SpliceAI donor gain score.
+37,ppi_combined_22,
+38,RVIS,Ranking of genes by whether they have more or less common functional genetic variation relative to the genome wide expectation given the amount of apparently neutral variation for the gene.
+39,RSA_Zfit,Reliability of the RSA prediction. 
+40,DisoRNAscore_aa_window_8_next,Mean prediction of disordered RNA binding residues for 8 residue window after variant.
+41,BLOSUM62,Amino acid substitution score from the BLOSUM 62 matrix.
+42,after_ASA_15,
+43,Consequence_first,First reported consequence from VEP.
+44,SpliceAI-don-loss,Masked SpliceAI donor loss score.
+45,before_ANCHOR_8,
+46,Glycosylation,PTM.
+47,Ubiquitination,PTM.
+48,ppi_combined_13,
+49,cHmm_E11,Number of 48 cell types in chromHMM state E11.
+50,cHmm_E24,Number of 48 cell types in chromHMM state E24.
+51,cHmm_E23,Number of 48 cell types in chromHMM state E23.
+52,concavity_score,Predicted ligand-binding sites calculated on AlphaFold models.
+53,cHmm_E15,Number of 48 cell types in chromHMM state E15.
+54,after_ANCHOR_15,
+55,cHmm_E22,Number of 48 cell types in chromHMM state E22.
+56,cHmm_E25,Number of 48 cell types in chromHMM state E25.
+57,ppi_combined_34,
+58,1000Gp3_AF,1000 genomes project allele frequency – all.
+59,verPhyloP,Vertebrate PhyloP score (excl. human).
+60,cHmm_E20,Number of 48 cell types in chromHMM state E20.
+61,STABILITY[SEQ],Categorical DDGun delta-delta g predictions from sequence.
+62,tOverlapMotifs,Number of overlapping predicted TF motifs.
+63,Methylation,PTM.
+64,ppi_combined_9,
+65,n_contacts,The number of residue contacts calculated on AlphaFold models.
+66,Mg2+_binding_gbind,GraphBind ligand score.
+67,DRNApredDNAscore_aa_window_15_prev,Mean prediction of DNA binding residues for 15 residue window before variant.
+68,ppi_combined_20,
+69,ppi_combined_31,
+70,num_interactions,The number of unique protein interactors for a protein.
+71,ppi_combined_7,
+72,before_IUPRED_15,
+73,ppi_combined_23,
+74,ppi_combined_18,
+75,ppi_combined_50,
+76,AF_confidence,The AlphaFold pLDDT value for the residue.
+77,MMseq2_conservation_level_aa_window_3_next,MMseq2 based conservation score for 3 residue window after variant.
+78,cHmm_E6,Number of 48 cell types in chromHMM state E6.
+79,cHmm_E9,Number of 48 cell types in chromHMM state E9.
+80,Acetylation,PTM.
+81,MMSp_acceptor,MMSplice acceptor score.
+82,MMSp_donorIntron,MMSplice donor intron.
+83,dbscSNV-ada_score,dbscSNV adaboost meta-predictor for spice-altering variants. 
+84,gtex_Bladder,GTEx tissue transcripts per million.
+85,dbscSNV-rf_score,dbscSNV randomforest meta-predictor for spice-altering variants. 
+86,MMseq2_conservation_level_aa_window_15_prev,MMseq2 based conservation score for 15 residue window before variant.
+87,DisoRNAscore_aa_window_8_prev,Mean prediction of disordered RNA binding residues for 8 residue window before variant.
+88,INTERACTION_REGION,Uniprot interaction region.
+89,after_ASA_8,
+90,Ca2+_binding_gbind,GraphBind ligand score.
+91,ppi_combined_1,
+92,cHmm_E19,Number of 48 cell types in chromHMM state E19.
+93,MOD_RES,Uniprot modified residue.
+94,ppi_combined_8,
+95,GerpN,GERP++ N score.
+96,ppi_combined_11,
+97,SpliceAI-acc-gain,Masked SpliceAI acceptor gain score.
+98,EncodeH3K4me1-sum,Sum of Encode H3K4me1 levels (from 13 cell lines).
+99,ppi_combined_6,
+100,DRNApredRNAscore_aa_window_8_next,Mean prediction of RNA binding residues for 8 residue window after variant.
+101,cHmm_E18,Number of 48 cell types in chromHMM state E18.
+102,cHmm_E4,Number of 48 cell types in chromHMM state E4.
+103,mirSVR-E,mirSVR-E.
+104,motifEScoreChng,VEP score change for the overlapping motif site.
+105,gtex_Prostate,GTEx tissue transcripts per million.
+106,gtex_Brain_-_Hypothalamus,GTEx tissue transcripts per million.
+107,SignalP_score_aa_window_15_next,Mean prediction of signal peptides for 15 residue window after variant.
+108,PSIPRED_strand_aa_window_3_prev,Mean prediction of protein strands for 3 residue window before variant.
+109,MMseq2_conservation_score_aa_window_3_prev,MMseq2 based conservation score for 3 residue window before variant.
+110,ppi_combined_27,
+111,DisoDNAscore_aa,Prediction of disordered DNA binding residues for the AA. 
+112,DRNApredDNAscore_aa,Prediction of DNA binding residues for the AA.
+113,ASAquick_rawscore_aa_window_3_prev,Mean prediction of raw protein accessible surface area for 3 residue window before variant.
+114,cHmm_E21,Number of 48 cell types in chromHMM state E21.
+115,ppi_combined_5,
+116,IMPACT,The VEP impact modifier for the consequence type.
+117,CDS_len,Coding sequence length.
+118,Number_of_paralogs,Number of paralogs for a gene.
+119,isHomomultimer,Indicated proteins which form homomultimers.
+120,after_IUPRED_3,
+121,after_IUPRED_8,
+122,before_RSA_8,
+123,ASA,Absolute solvent accessibility. 
+124,AF_Relative_ASA,Relative solvent accessibility calculated with DSSP on AlphaFold models.
+125,mirSVR-Score,mirSVR-Score. 
+126,Selective_pressure,Selective evolutionary pressure acting on a gene estimated by the McDonald–Kreitman neutrality index at the population level.
+127,DRNApredDNAscore_aa_window_8_prev,Mean prediction of DNA binding residues for 8 residue window before variant.
+128,motifDist,"Reference minus alternate allele difference in nucleotide frequency 
+within an predicted overlapping motif."
+129,SpliceAI-acc-loss,Masked SpliceAI acceptor loss score.
+130,Phosphorylation,PTM.
+131,Indispensability_score,Estimates gene essentiality on the basis of a gene’s network and evolutionary properties.
+132,gtex_Fallopian_Tube,GTEx tissue transcripts per million.
+133,ppi_combined_47,
+134,ppi_combined_48,
+135,cHmm_E16,Number of 48 cell types in chromHMM state E16.
+136,ppi_combined_3,
+137,cHmm_E2,Number of 48 cell types in chromHMM state E2.
+138,cHmm_E1,Number of 48 cell types in chromHMM state E1.
+139,gtex_Colon_-_Transverse,GTEx tissue transcripts per million.
+140,gtex_Nerve_-_Tibial,GTEx tissue transcripts per million.
+141,LINSIGHT,LINSIGHT score.
+142,MMseq2_conservation_level_aa_window_8_next,MMseq2 based conservation score for 8 residue window after variant.
+143,SignalP_score_aa_window_3_prev,Mean prediction of signal peptides for 3 residue window before variant.
+144,ppi_combined_2,
+145,ppi_combined_0,
+146,cHmm_E5,Number of 48 cell types in chromHMM state E5.
+147,ASAquick_normscore_aa_window_3_next,Mean prediction of normalized protein accessible surface area for 3 residue window after variant.
+148,gtex_Brain_-_Spinal_cord_(cervical_c-1),GTEx tissue transcripts per million.
+149,HEME_binding_gbind,GraphBind ligand score.
+150,ProteinLengthChange,Change in protein length as a result of variant.
+151,ppi_combined_14,
+152,gtex_Small_Intestine_-_Terminal_Ileum,GTEx tissue transcripts per million.
+153,ppi_combined_29,
+154,ppi_combined_16,
+155,bStatistic_y,
+156,targetScan,targetscan.
+157,PSIPRED_helix_aa_window_8_next,Mean prediction of protein helices for 8 residue window after variant.
+158,EncodetotalRNA-max,Maximum of Encode totalRNA-seq levels (from 10 cell lines always minus and plus strand).
+159,SignalP_score_aa_window_3_next,Mean prediction of signal peptides for 3 residue window after variant.
+160,gtex_Spleen,GTEx tissue transcripts per million.
+161,MoRFchibiScore_aa,Prediction of MoRF regions for the AA.
+162,mirSVR-Aln,mirSVR-Aln.
+163,GerpS,GERP++ S score.
+164,DisoDNAscore_aa_window_3_next,Mean prediction of disordered DNA binding residues for 3 residue window after variant.
+165,EncodeH3K36me3-max,Maximum of Encode H3K36me3 levels (from 10 cell lines).
+166,DFLpredScore_aa_window_8_prev,Mean prediction of disordered flexible linker for 8 residue window before variant.
+167,DRNApredRNAscore_aa_window_15_next,Mean prediction of RNA binding residues for 15 residue window after variant.
+168,gtex_Brain_-_Cerebellum,GTEx tissue transcripts per million.
+169,ASAquick_rawscore_aa_window_3_next,Mean prediction of raw protein accessible surface area for 3 residue window after variant.
+170,MutationTaster_score,Mutation Taster score.
+171,cHmm_E8,Number of 48 cell types in chromHMM state E8.
+172,SCRIBERscore_aa_window_3_prev,Mean prediction of protein binding residues for 3 residue window before variant.
+173,PSIPRED_strand_aa_window_15_next,Mean prediction of protein strands for 15 residue window after variant.
+174,PSIPRED_strand_aa_window_8_next,Mean prediction of protein strands for 8 residue window after variant.
+175,PSIPRED_strand_aa_window_8_prev,Mean prediction of protein strands for 8 residue window before variant.
+176,PSIPRED_helix_aa,Prediction of protein helices for the AA.
+177,PSIPRED_helix_aa_window_15_next,Mean prediction of protein helices for 15 residue window after variant.
+178,PSIPRED_helix_aa_window_8_prev,Mean prediction of protein helices for 8 residue window before variant.
+179,cHmm_E12,Number of 48 cell types in chromHMM state E12.
+180,MMseq2_conservation_score_aa_window_15_next,MMseq2 based conservation score for 15 residue window after variant.
+181,MMseq2_conservation_score_aa_window_3_next,MMseq2 based conservation score for 3 residue window after variant.
+182,cHmm_E3,Number of 48 cell types in chromHMM state E3.
+183,RSA,Relative solvent accessibility. 
+184,MMseq2_conservation_level_aa,MMseq2 based conservation score binned to deciles for aa.
+185,gtex_Adipose_-_Subcutaneous,GTEx tissue transcripts per million.
+186,EncodeH3K79me2-sum,Sum of Encode H3K79me2 levels (from 13 cell lines).
+187,MMseq2_conservation_level_aa_window_3_prev,MMseq2 based conservation score for 3 residue window before variant.
+188,after_RSA_3,
+189,DisoPROscore_aa,Prediction of disordered protein binding residues for the AA. 
+190,after_ASA_3,
+191,EncodeH4K20me1-sum,Sum of Encode H4K20me1 levels (from 11 cell lines).
+192,SCRIBERscore_aa_window_15_next,Mean prediction of protein binding residues for 15 residue window after variant.
+193,ppi_combined_26,
+194,ANCHOR2,Disordered binding region prediction.
+195,ASAquick_normscore_aa_window_8_next,Mean prediction of normalized protein accessible surface area for 8 residue window after variant.
+196,ppi_combined_55,
+197,priPhCons,Primate PhastCons conservation score (excl. human).
+198,ASAquick_normscore_aa_window_3_prev,Mean prediction of normalized protein accessible surface area for 3 residue window before variant.
+199,ppi_combined_10,
+200,MaxEntScan_alt,Splice affect score for the alternate AA.
+201,ppi_combined_15,
+202,gtex_Heart_-_Atrial_Appendage,GTEx tissue transcripts per million.
+203,ppi_combined_39,
+204,ppi_combined_56,
+205,DRNApredDNAscore_aa_window_15_next,Mean prediction of DNA binding residues for 15 residue window after variant.
+206,ppi_combined_63,
+207,gtex_Cells_-_EBV-transformed_lymphocytes,GTEx tissue transcripts per million.
+208,ppi_combined_33,
+209,gtex_Ovary,GTEx tissue transcripts per million.
+210,MMseq2_conservation_score_aa_window_15_prev,MMseq2 based conservation score for 15 residue window before variant.
+211,gtex_Pancreas,GTEx tissue transcripts per million.
+212,polyphen_avensit,"The  number of residue contacts with critical sites, average per homologous PDB chain."
+213,gtex_Liver,GTEx tissue transcripts per million.
+214,FATHMM_score,FATHMM score.
+215,MMseq2_conservation_score_aa_window_8_next,MMseq2 based conservation score for 8 residue window after variant.
+216,MoRFchibiScore_aa_window_3_prev,Mean prediction of MoRF regions for 3 residue window before variant.
+217,gtex_Brain_-_Putamen_(basal_ganglia),GTEx tissue transcripts per million.
+218,MoRFchibiScore_aa_window_3_next,Mean prediction of MoRF regions for 3 residue window after variant.
+219,SignalP_score_aa_window_8_next,Mean prediction of signal peptides for 8 residue window after variant.
+220,MMseq2_conservation_level_aa_window_8_prev,MMseq2 based conservation score for 8 residue window before variant.
+221,COSMIC,Ln(frequency) of missense change type in COSMIC (release 38).
+222,COSMICvsSWISSPROT,Ln(frequency) of missense change in COSMIC (release 38) normalized by the frequency of reference amino acid residue in human proteins in SwissProt/TrEMBL.
+223,SignalP_score_aa_window_15_prev,Mean prediction of signal peptides for 15 residue window before variant.
+224,PSIPRED_helix_aa_window_3_next,Mean prediction of protein helices for 3 residue window after variant.
+225,polyphen_nobs,Number of residues observed at the substitution position in multiple alignment (without gaps).
+226,gtex_Testis,GTEx tissue transcripts per million.
+227,gtex_Thyroid,GTEx tissue transcripts per million.
+228,PSIPRED_strand_aa_window_15_prev,Mean prediction of protein strands for 15 residue window before variant.
+229,PSIPRED_strand_aa,Prediction of protein strands for the AA.
+230,SCRIBERscore_aa_window_8_prev,Mean prediction of protein binding residues for 8 residue window before variant.
+231,gnom_mutcount,The number of gnomAD variants proximal to a given residue in 3D space.
+232,cHmm_E13,Number of 48 cell types in chromHMM state E13.
+233,CpG,Percent CpG in a window of +/-75bp.
+234,DisoRNAscore_aa,Prediction of disordered RNA binding residues for the AA. 
+235,DisoRNAscore_aa_window_15_next,Mean prediction of disordered RNA binding residues for 15 residue window after variant.
+236,ASAquick_rawscore_aa_window_15_prev,Mean prediction of raw protein accessible surface area for 15 residue window before variant.
+237,ASAquick_rawscore_aa_window_8_next,Mean prediction of raw protein accessible surface area for 8 residue window after variant.
+238,mamPhCons,Mammalian PhastCons conservation score (excl. human).
+239,EncodeH3K36me3-sum,Sum of Encode H3K36me3 levels (from 10 cell lines).
+240,gtex_Cells_-_Cultured_fibroblasts,GTEx tissue transcripts per million.
+241,gtex_Brain_-_Hippocampus,GTEx tissue transcripts per million.
+242,DFLpredScore_aa_window_3_next,Mean prediction of disordered flexible linker for 3 residue window after variant.
+243,EncodeH3K9ac-max,Maximum of Encode H3K9ac levels (from 13 cell lines).
+244,DRNApredDNAscore_aa_window_3_next,Mean prediction of DNA binding residues for 3 residue window after variant.
+245,Grantham_x,The Grantham distance from reference to mutation amino acid residue.
+246,gtex_Cervix_-_Ectocervix,GTEx tissue transcripts per million.
+247,ppi_combined_61,
+248,gtex_Brain_-_Nucleus_accumbens_(basal_ganglia),GTEx tissue transcripts per million.
+249,GerpRSpval,GERP++ RS score p-value.
+250,ppi_combined_59,
+251,MoRFchibiScore_aa_window_15_prev,Mean prediction of MoRF regions for 15 residue window before variant.
+252,GerpRS,GERP++ RS score.
+253,LIST_S2_score,LIST-S2 score.
+254,before_RSA_15,
+255,PROVEAN_score,PROVEAN score.
+256,DisoRNAscore_aa_window_3_next,Mean prediction of disordered RNA binding residues for 3 residue window after variant.
+257,gtex_Adipose_-_Visceral_(Omentum),GTEx tissue transcripts per million.
+258,gtex_Artery_-_Aorta,GTEx tissue transcripts per million.
+259,gtex_Esophagus_-_Muscularis,GTEx tissue transcripts per million.
+260,gtex_Esophagus_-_Mucosa,GTEx tissue transcripts per million.
+261,ppi_combined_51,
+262,GDI,The accumulated mutational damage of each human gene in healthy human population.
+263,PHOSPHORYLATION,PTM.
+264,gtex_Muscle_-_Skeletal,GTEx tissue transcripts per million.
+265,gtex_Vagina,GTEx tissue transcripts per million.
+266,SignalP_score_aa_window_8_prev,Mean prediction of signal peptides for 8 residue window before variant.
+267,gtex_Brain_-_Frontal_Cortex_(BA9),GTEx tissue transcripts per million.
+268,polyphen_mindhet,"The closest residue contact with a heteroatom, Å."
+269,gtex_Artery_-_Coronary,GTEx tissue transcripts per million.
+270,gtex_Brain_-_Caudate_(basal_ganglia),GTEx tissue transcripts per million.
+271,gtex_Skin_-_Not_Sun_Exposed_(Suprapubic),GTEx tissue transcripts per million.
+272,gtex_Cervix_-_Endocervix,GTEx tissue transcripts per million.
+273,polyphen_dvol,Change in residue side chain volume.
+274,gtex_Brain_-_Amygdala,GTEx tissue transcripts per million.
+275,DisoRNAscore_aa_window_15_prev,Mean prediction of disordered RNA binding residues for 15 residue window before variant.
+276,ppi_combined_53,
+277,ASAquick_normscore_aa_window_15_prev,Mean prediction of normalized protein accessible surface area for 15 residue window before variant.
+278,S_DDG[SEQ],DDGun delta-delta G predictions from sequence.
+279,ASAquick_normscore_aa_window_8_prev,Mean prediction of normalized protein accessible surface area for 8 residue window before variant.
+280,EncodeDNase-max,Maximum of Encode Dnase-seq levels (from 12 cell lines).
+281,M_CAP_score,M-CAP score.
+282,ppi_combined_60,
+283,ppi_combined_58,
+284,NMD,Prediction indicating stop_gained variant allowing for transcript escape of nonsense-mediated mRNA decay
+285,HUVEC_fitCons_score,fitCons score based on cell type HUVEC.
+286,H1_hESC_fitCons_score,fitCons score based on cell type H1_hESC.
+287,ppi_combined_49,
+288,Freq100bp,Number of frequent (MAF > 0.05) BRAVO SNV in 100 bp window nearby.
+289,HGMD2003,"Number of times that the reference to mutation substitution occurs in the Human Gene Mutation Database, 2003 version."
+290,ppi_combined_30,
+291,JM,Amino acid substitution score from the Miyazawa-Jernigan contact energy matrix.
+292,ppi_combined_44,
+293,ppi_combined_42,
+294,rf_score,dbscSNV randomforest meta-predictor for spice-altering variants. 
+295,ppi_combined_40,
+296,Volume,The change in residue volume resulting from the replacement (in units of cubic Angstroms).
+297,ASAquick_rawscore_aa,Prediction of protein accessible surface area for the AA.
+298,EncodeH4K20me1-max,Maximum of Encode H4K20me1 levels (from 11 cell lines).
+299,DFLpredScore_aa_window_15_next,Mean prediction of disordered flexible linker for 15 residue window after variant.
+300,MoRFchibiScore_aa_window_8_next,Mean prediction of MoRF regions for 8 residue window after variant.
+301,DisoPROscore_aa_window_15_next,Mean prediction of disordered protein binding residues for 15 residue window after variant.
+302,DFLpredScore_aa_window_15_prev,Mean prediction of disordered flexible linker for 15 residue window before variant.
+303,SiPhy_29way_logOdds,SiPhy score based on 29 mammals genomes.
+304,DisoPROscore_aa_window_8_prev,Mean prediction of disordered protein binding residues for 8 residue window before variant.
+305,DisoDNAscore_aa_window_15_next,Mean prediction of disordered DNA binding residues for 15 residue window after variant.
+306,gnomsingle_mutcount,The number of single occurrence gnomAD variants proximal to a given residue in 3D space.
+307,DisoDNAscore_aa_window_3_prev,Mean prediction of disordered DNA binding residues for 3 residue window before variant.
+308,MVP_score,MVP score.
+309,ppi_combined_17,
+310,PSIPRED_helix_aa_window_15_prev,Mean prediction of protein helices for 15 residue window before variant.
+311,MaxEntScan_diff,Difference of alt and ref splicing scores.
+312,denovo_Zscore,Estimate of the rate of de novo mutation per gene and whether a given gene contains more de novo mutations than expected by chance alone.
+313,PSIPRED_helix_aa_window_3_prev,Mean prediction of protein helices for 3 residue window before variant.
+314,MMseq2_conservation_score_aa_window_8_prev,MMseq2 based conservation score for 8 residue window before variant.
+315,PAM250,Amino acid substitution score from the PAM250 matrix.
+316,S-GLYCOSYLATION,PTM.
+317,SUMOYLATION,PTM.
+318,Transition,Frequency of transition between two neighboring amino acids based on all human proteins in SwissProt/TrEMBL.
+319,rel_prot_pos,Protein position / Protein length * 10.
+320,polyphen_dscore,Difference of PSIC scores for two amino acid residue variants (score1 – score2).
+321,COSMICvsHAPMAP,Ln(frequency) of missense change in COSMIC (release 38) normalized by the number of times the change type was observed in HapMap validated SNPs in dbSNP Build 129.
+322,C-GLYCOSYLATION,PTM.
+323,Charge,The change in formal charge resulting from replacing the reference amino acid residue with the mutation. Histidine is assumed protonated (formal charge of +1).
+324,cHmm_E10,Number of 48 cell types in chromHMM state E10.
+325,RemapOverlapTF,Remap number of different transcription factors binding.
+326,phyloP100way_vertebrate,Conservation score based on multiple alignments of 100 vertebrate genomes including human.
+327,phastCons30way_mammalian,Conservation score based on multiple alignments of 30 mammalian genomes including human.
+328,MYRISTOYLATION,PTM.
+329,cHmm_E17,Number of 48 cell types in chromHMM state E17.
+330,MPC_score,MPC score.
+331,EncodeH3K4me2-max,Maximum of Encode H3K4me2 levels (from 14 cell lines).
+332,EncodeH3K4me3-sum,Sum of Encode H3K4me3 levels (from 14 cell lines).
+333,EncodeH3K4me3-max,Maximum of Encode H3K4me3 levels (from 14 cell lines).
+334,EncodeDNase-sum,Sum of Encode Dnase-seq levels (from 12 cell lines).
+335,rel_cDNA_pos,cDNA position / cDNA length * 10.
+336,LRT_score,LRT score.
+337,GERPplus_plus_NR,
+338,Dst2Splice,"Distance to splice site in 20bp; positive: exonic, negative: intronic."
+339,rel_CDS_pos,CDS position / CDS length * 10.
+340,polyphen_mindsit,"The  closest residue contact with a critical site, Å."
+341,RemapOverlapCL,Remap number of different transcription factor - cell line combinations binding.
+342,O-GLYCOSYLATION,PTM.
+343,gtex_Colon_-_Sigmoid,GTEx tissue transcripts per million.
+344,DRNApredRNAscore_aa_window_3_next,Mean prediction of RNA binding residues for 3 residue window after variant.
+345,ppi_combined_54,
+346,ppi_combined_62,
+347,DRNApredDNAscore_aa_window_8_next,Mean prediction of DNA binding residues for 8 residue window after variant.
+348,gtex_Kidney_-_Cortex,GTEx tissue transcripts per million.
+349,gtex_Heart_-_Left_Ventricle,GTEx tissue transcripts per million.
+350,SIFT_score,SIFT score.
+351,ASAquick_normscore_aa_window_15_next,Mean prediction of normalized protein accessible surface area for 15 residue window after variant.
+352,gtex_Esophagus_-_Gastroesophageal_Junction,GTEx tissue transcripts per million.
+353,NearestExonJB_len,"Length of the nearest exon within 10,000 bps."
+354,DFLpredScore_aa_window_8_next,Mean prediction of disordered flexible linker for 8 residue window after variant.
+355,DRNApredRNAscore_aa_window_8_prev,Mean prediction of RNA binding residues for 8 residue window before variant.
+356,gtex_Artery_-_Tibial,GTEx tissue transcripts per million.
+357,gtex_Adrenal_Gland,GTEx tissue transcripts per million.
+358,SignalP_score_aa,Prediction of signal peptides for the AA. 
+359,SCRIBERscore_aa_window_8_next,Mean prediction of protein binding residues for 8 residue window after variant.
+360,DisoDNAscore_aa_window_8_next,Mean prediction of disordered DNA binding residues for 8 residue window after variant.
+361,SCRIBERscore_aa_window_15_prev,Mean prediction of protein binding residues for 15 residue window before variant.
+362,DisoPROscore_aa_window_3_next,Mean prediction of disordered protein binding residues for 3 residue window after variant.
+363,gtex_Brain_-_Cerebellar_Hemisphere,GTEx tissue transcripts per million.
+364,gtex_Minor_Salivary_Gland,GTEx tissue transcripts per million.
+365,DRNApredDNAscore_aa_window_3_prev,Mean prediction of DNA binding residues for 3 residue window before variant.
+366,MoRFchibiScore_aa_window_8_prev,Mean prediction of MoRF regions for 8 residue window before variant.
+367,ppi_combined_21,
+368,ppi_combined_19,
+369,gtex_Stomach,GTEx tissue transcripts per million.
+370,S_DDG[3D],DDGun delta-delta G predictions from AlphaFold models.
+371,ppi_combined_32,
+372,AF_dssp_secondary_structure,Secondary structure characterization of AlphaFold models from DSSP.
+373,ppi_combined_37,
+374,ppi_combined_24,
+375,ppi_combined_12,
+376,ppi_combined_41,
+377,ppi_combined_43,
+378,ppi_combined_38,
+379,STABILITY[3D],Categorical DDGun delta-delta g predictions from AlphaFold models.
+380,DFLpredScore_aa,Prediction of disordered flexible linker residues for the AA.
+381,DisoPROscore_aa_window_3_prev,Mean prediction of disordered protein binding residues for 3 residue window before variant.
+382,DRNApredRNAscore_aa,Prediction of RNA binding residues for the AA.
+383,MaxEntScan_ref,Splice affect score for the reference AA.
+384,DisoPROscore_aa_window_15_prev,Mean prediction of disordered protein binding residues for 15 residue window before variant.
+385,HAPMAP,Ln(frequency) of missense change type in HapMap validated SNPs in dbSNP Build 129.
+386,hgmd_mutcount,The number of HGMD variants proximal to a given residue in 3D space.
+387,MutationAssessor_score,Mutation Assessor score.
+388,ppi_combined_46,
+389,EncodeH3K9me3-sum,Sum of Encode H3K9me3 levels (from 14 cell lines).
+390,EncodeH3K9me3-max,Maximum of Encode H3K9me3 levels (from 14 cell lines).
+391,Freq10000bp,Number of frequent (MAF > 0.05) BRAVO SNV in 10000 bp window nearby.
+392,EncodeH3K27me3-sum,Sum of Encode H3K27me3 levels (from 14 cell lines).
+393,EncodeH3K27me3-max,Maximum of Encode H3K27me3 levels (from 14 cell lines).
+394,ASAquick_rawscore_aa_window_8_prev,Mean prediction of raw protein accessible surface area for 8 residue window before variant.
+395,EncodeH3K79me2-max,Maximum of Encode H3K79me2 levels (from 13 cell lines).
+396,ppi_combined_35,
+397,fathmm_XF_coding_score,FATHMM-XF score.
+398,s_het,Genome-wide distribution of selective effects for heterozygous PTVs.
+399,ppi_combined_57,
+400,Sngl10000bp,Number of single occurence BRAVO SNV in 10000 bp window nearby.
+401,GERPplus_plus_RS,
+402,ppi_combined_28,
+403,EncodeH3K27ac-sum,Sum of Encode H3K27ac levels (from 14 cell lines).
+404,ppi_combined_4,
+405,ConsScore,Score assigned to VEP consequence.
+406,gtex_Breast_-_Mammary_Tissue,GTEx tissue transcripts per million.
+407,gtex_Brain_-_Substantia_nigra,GTEx tissue transcripts per million.
+408,gtex_Brain_-_Cortex,GTEx tissue transcripts per million.
+409,polyphen_score1,PSIC score for wild type AA residue.
+410,gtex_Uterus,GTEx tissue transcripts per million.
+411,gtex_Brain_-_Anterior_cingulate_cortex_(BA24),GTEx tissue transcripts per million.
+412,Dst2SplType,Closest splice site is ACCEPTOR or DONOR.
+413,motifECount,Total number of overlapping motifs
+414,cHmm_E7,Number of 48 cell types in chromHMM state E7.
+415,SCRIBERscore_aa,Prediction of protein binding residues for the AA.
+416,MoRFchibiScore_aa_window_15_next,Mean prediction of MoRF regions for 15 residue window after variant.
+417,polyphen_avenhet,"The number of residue contacts with heteroatoms, average per homologous PDB chain "
+418,gtex_Kidney_-_Medulla,GTEx tissue transcripts per million.
+419,Rare10000bp,Number of rare (MAF < 0.05) BRAVO SNV in 10000 bp window nearby.
+420,minDistTSE,Distance to closest Transcribed Sequence End (TSE).
+421,polyphen_avenint,"Number of residue contacts with other chains, average per homologous PDB chain."
+422,ppi_combined_36,
+423,EnsembleRegulatoryFeature,Matches in the Ensemble Regulatory Built (similar to annotype).
+424,ASAquick_normscore_aa,Prediction of normalized protein accessible surface area for the AA.
+425,polyphen_idpsnp,Maximum congruency of the mutant amino acid residue to the sequences in multiple alignment with the mutant residue.
+426,GC,Percent GC in a window of +/- 75bp.
+427,EncodeH2AFZ-sum,Sum of Encode H2AFZ levels (from 13 cell lines).
+428,polyphen_bfact,Normalized B-factor (temperature factor) for the residue.
+429,minDistTSS,Distance to closest Transcribed Sequence Start (TSS).
+430,ASAquick_rawscore_aa_window_15_next,Mean prediction of raw protein accessible surface area for 15 residue window after variant.
+431,EncodetotalRNA-sum,Sum of Encode totalRNA-seq levels (from 10 cell lines always minus and plus strand).
+432,NearestExonJB_distance,"Distance to nearest exon junction boundary within 10,000 bps."
+433,MMseq2_conservation_score_aa,MMseq2 based conservation score for aa.
+434,gtex_Pituitary,GTEx tissue transcripts per million.
+435,DFLpredScore_aa_window_3_prev,Mean prediction of disordered flexible linker for 3 residue window before variant.
+436,mamPhyloP,Mammalian PhyloP score (excl. human).
+437,priPhyloP,Primate PhyloP score (excl. human).
+438,DisoRNAscore_aa_window_3_prev,Mean prediction of disordered RNA binding residues for 3 residue window before variant.
+439,DisoPROscore_aa_window_8_next,Mean prediction of disordered protein binding residues for 8 residue window after variant.
+440,CADD_raw,
+441,Conservation,GERP scores from the EPO 35 way mammalian alignment. 
+442,fathmm_MKL_coding_score,FATHMM-MKL score.
+443,PSIPRED_strand_aa_window_3_next,Mean prediction of protein strands for 3 residue window after variant.
+444,DisoDNAscore_aa_window_15_prev,Mean prediction of disordered DNA binding residues for 15 residue window before variant.
+445,SCRIBERscore_aa_window_3_next,Mean prediction of protein binding residues for 3 residue window after variant.
+446,DRNApredRNAscore_aa_window_15_prev,Mean prediction of RNA binding residues for 15 residue window before variant.
+447,ada_score,dbscSNV adaboost meta-predictor for spice-altering variants. 
+448,gtex_Whole_Blood,GTEx tissue transcripts per million.
+449,ppi_combined_25,
+450,Sngl1000bp,Number of single occurence BRAVO SNV in 1000 bp window nearby.
+451,MOD_RES_DESCRIPTION,
+452,ppi_combined_45,
+453,haplo_imputed,Predicted probability of gene haploinsufficiency with multiple imputation for missing features.
+454,polyphen_hbonds,The number of hydrogen sidechain-sidechain and sidechain-mainchain bonds formed by the residue .
+455,Hydrophobicity,The change in hydrophobicity resulting from the substitution.
+456,ACETYLATION,PTM.
+457,UBIQUITINATION,PTM.
+458,polyphen_score2,PSIC score for mutant AA residue.
+459,S-NITROSYLATION,PTM.
+460,gtex_Skin_-_Sun_Exposed_(Lower_leg),GTEx tissue transcripts per million.
+461,MMseq2_conservation_level_aa_window_15_next,MMseq2 based conservation score for 15 residue window after variant.
+462,METHYLATION,PTM.
+463,N-GLYCOSYLATION,PTM.
+464,verPhCons,Vertebrate PhastCons conservation score (excl. human).
+465,Condel_score,Condel score.
+466,phyloP30way_mammalian,Conservation score based on multiple alignments of 30 mammalian genomes including human.
+467,phyloP17way_primate,Conservation score based on multiple alignments of 17 primate genomes including human.
+468,ppi_combined_52,
+469,Sngl100bp,Number of single occurrence BRAVO SNV in 100 bp window nearby.
+470,phastCons100way_vertebrate,Conservation score based on multiple alignments of 100 vertebrate genomes including human.
+471,polyphen_idpmax,Maximum congruency of the mutant amino acid residue to all sequences in multiple alignment.
+472,gtex_Lung,GTEx tissue transcripts per million.
+473,GenoCanyon_score,Prediction of the functional potential at each nucleotide
+474,EncodeH3K9ac-sum,Sum of Encode H3K9ac levels (from 13 cell lines).
+475,phastCons17way_primate,Conservation score based on multiple alignments of 17 primate genomes including human.
+476,haplo,Predicted probability of gene haploinsufficiency.
+477,BIOTYPE,Biotype of transcript or regulatory feature.
+478,Dominant_probability,Prediction of variants pathogenic for autosomal dominant disease.
+479,integrated_fitCons_score,fitCons score based on three cell types.
+480,Clarks_distance,Estimate of the amino acid composition complexity of each protein.
+481,EncodeH3K27ac-max,Maximum of Encode H3K27ac levels (from 14 cell lines).
+482,Polarity,Polarity change from reference to mutation amino acid residue.
+483,polyphen_dprop,Change in solvent accessible surface propensity resulting from the substitution.
+484,polyphen_normasa,Normalized accessible surface area.
+485,motifEHIPos,Is the position considered highly informative for an overlapping motif by VEP?
+486,Freq1000bp,Number of frequent (MAF > 0.05) BRAVO SNV in 1000 bp window nearby.
+487,Rare1000bp,Number of rare (MAF < 0.05) BRAVO SNV in 1000 bp window nearby.
+488,DRNApredRNAscore_aa_window_3_prev,Mean prediction of RNA binding residues for 3 residue window before variant.
+489,polyphen_mindint,"Closest residue contact with other chain, Å."
+490,Ex,Amino acid substitution score from the EX matrix.
+491,DisoDNAscore_aa_window_8_prev,Mean prediction of disordered DNA binding residues for 8 residue window before variant.
+492,polyphen_idqmin,Query sequence identity with the closest homologue deviating from the wild type amino acid residue.
+493,GM12878_fitCons_score,fitCons score based on cell type GM12878.
+494,REGION_DESCRIPTION,Uniprot region description.
+495,EncodeH2AFZ-max,Maximum of Encode H2AFZ levels (from 13 cell lines).
+496,EncodeH3K4me1-max,Maximum of Encode H3K4me1 levels (from 13 cell lines).
+497,EncodeH3K4me2-sum,Sum of Encode H3K4me2 levels (from 14 cell lines).
+498,MSC_95CI,The lower boundary of the 95% confidence interval generated by CADD for a gene.
+499,VB,Amino acid substitution score from the VB matrix.

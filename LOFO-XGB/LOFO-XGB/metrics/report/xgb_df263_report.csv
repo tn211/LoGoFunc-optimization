@@ -1,0 +1,17 @@
+Classification Report
+"              precision    recall  f1-score   support
+
+     Neutral       0.93      0.92      0.92      1339
+         GOF       0.86      0.59      0.70       152
+         LOF       0.88      0.93      0.90      1340
+
+    accuracy                           0.90      2831
+   macro avg       0.89      0.81      0.84      2831
+weighted avg       0.90      0.90      0.90      2831
+
+
+Per-class MCC:
+Neutral: 0.8576
+GOF: 0.6996
+LOF: 0.8156
+"

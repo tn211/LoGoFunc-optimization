@@ -1,0 +1,28 @@
+name: tabulate
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - tabulate
+  - jupyter
+  - ipykernel
+  - ca-certificates
+  - openssl
+  - matplotlib
+  - seaborn
+  - certifi
+  - tqdm
+  - networkx
+  - python-louvain
+  - scikit-learn
+  - category_encoders
+  - openpyxl
+  - nbqa
+  - yapf
+  - black
+  - prettytable
+prefix: /Users/benzenesea/mambaforge/envs/tabulate

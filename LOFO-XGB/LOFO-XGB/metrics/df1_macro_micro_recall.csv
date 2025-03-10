@@ -1,0 +1,2 @@
+micro_recall,macro_recall,confusion_matrix
+0.5118,0.3644,"[[290, 49, 1000], [4, 2, 146], [113, 70, 1157]]"

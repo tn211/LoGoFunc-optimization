@@ -1,0 +1,1998 @@
+{
+    "1": {
+        "feature_name": "gnomAD_exomes_AF",
+        "description": ""
+    },
+    "2": {
+        "feature_name": "before_ANCHOR_15",
+        "description": ""
+    },
+    "3": {
+        "feature_name": "Recessive_probability",
+        "description": "Prediction of variants pathogenic for autosomal recessive disease."
+    },
+    "4": {
+        "feature_name": "MMSp_acceptorIntron",
+        "description": "MMSplice acceptor intron (intron 3\u2019) score."
+    },
+    "5": {
+        "feature_name": "Dist2Mutation",
+        "description": "Distance between the closest BRAVO SNV up and downstream (position itself excluded)."
+    },
+    "6": {
+        "feature_name": "TSSDistance",
+        "description": "The distance from the transcription start site for upstream variants"
+    },
+    "7": {
+        "feature_name": "before_ANCHOR_3",
+        "description": ""
+    },
+    "8": {
+        "feature_name": "REQUIRED_FOR_INTER",
+        "description": "Uniprot region required for interaction."
+    },
+    "9": {
+        "feature_name": "after_ANCHOR_8",
+        "description": ""
+    },
+    "10": {
+        "feature_name": "before_RSA_3",
+        "description": ""
+    },
+    "11": {
+        "feature_name": "cHmm_E14",
+        "description": "Number of 48 cell types in chromHMM state E14."
+    },
+    "12": {
+        "feature_name": "before_ASA_3",
+        "description": ""
+    },
+    "13": {
+        "feature_name": "before_ASA_8",
+        "description": ""
+    },
+    "14": {
+        "feature_name": "Mn2+_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "15": {
+        "feature_name": "distance_com",
+        "description": "The residue distance from the protein center of mass calculated from AlphaFold models."
+    },
+    "16": {
+        "feature_name": "after_ANCHOR_3",
+        "description": ""
+    },
+    "17": {
+        "feature_name": "after_IUPRED_15",
+        "description": ""
+    },
+    "18": {
+        "feature_name": "before_IUPRED_8",
+        "description": ""
+    },
+    "19": {
+        "feature_name": "gnomAD_genomes_AF",
+        "description": ""
+    },
+    "20": {
+        "feature_name": "before_ASA_15",
+        "description": ""
+    },
+    "21": {
+        "feature_name": "RNA_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "22": {
+        "feature_name": "A3D_SCORE",
+        "description": "Aggrescan3D score calculated on AlphaFold models."
+    },
+    "23": {
+        "feature_name": "Rare100bp",
+        "description": "Number of rare (MAF < 0.05) BRAVO SNV in 100 bp window nearby."
+    },
+    "24": {
+        "feature_name": "REGION",
+        "description": "Uniprot region."
+    },
+    "25": {
+        "feature_name": "ATP_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "26": {
+        "feature_name": "PTM",
+        "description": "1 if residue has any PTM, else 0."
+    },
+    "27": {
+        "feature_name": "DNA_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "28": {
+        "feature_name": "after_RSA_15",
+        "description": ""
+    },
+    "29": {
+        "feature_name": "after_RSA_8",
+        "description": ""
+    },
+    "30": {
+        "feature_name": "UK10K_AF",
+        "description": "UK10K allele frequency."
+    },
+    "31": {
+        "feature_name": "VEST4_score",
+        "description": "VEST4 score."
+    },
+    "32": {
+        "feature_name": "MMSp_exon",
+        "description": "MMSplice exon score."
+    },
+    "33": {
+        "feature_name": "MMSp_donor",
+        "description": "MMSplice donor score."
+    },
+    "34": {
+        "feature_name": "IUPRED2",
+        "description": "Disordered protein region prediction."
+    },
+    "35": {
+        "feature_name": "before_IUPRED_3",
+        "description": ""
+    },
+    "36": {
+        "feature_name": "SpliceAI-don-gain",
+        "description": "Masked SpliceAI donor gain score."
+    },
+    "37": {
+        "feature_name": "ppi_combined_22",
+        "description": ""
+    },
+    "38": {
+        "feature_name": "RVIS",
+        "description": "Ranking of genes by whether they have more or less common functional genetic variation relative to the genome wide expectation given the amount of apparently neutral variation for the gene."
+    },
+    "39": {
+        "feature_name": "RSA_Zfit",
+        "description": "Reliability of the RSA prediction. "
+    },
+    "40": {
+        "feature_name": "DisoRNAscore_aa_window_8_next",
+        "description": "Mean prediction of disordered RNA binding residues for 8 residue window after variant."
+    },
+    "41": {
+        "feature_name": "BLOSUM62",
+        "description": "Amino acid substitution score from the BLOSUM 62 matrix."
+    },
+    "42": {
+        "feature_name": "after_ASA_15",
+        "description": ""
+    },
+    "43": {
+        "feature_name": "Consequence_first",
+        "description": "First reported consequence from VEP."
+    },
+    "44": {
+        "feature_name": "SpliceAI-don-loss",
+        "description": "Masked SpliceAI donor loss score."
+    },
+    "45": {
+        "feature_name": "before_ANCHOR_8",
+        "description": ""
+    },
+    "46": {
+        "feature_name": "Glycosylation",
+        "description": "PTM."
+    },
+    "47": {
+        "feature_name": "Ubiquitination",
+        "description": "PTM."
+    },
+    "48": {
+        "feature_name": "ppi_combined_13",
+        "description": ""
+    },
+    "49": {
+        "feature_name": "cHmm_E11",
+        "description": "Number of 48 cell types in chromHMM state E11."
+    },
+    "50": {
+        "feature_name": "cHmm_E24",
+        "description": "Number of 48 cell types in chromHMM state E24."
+    },
+    "51": {
+        "feature_name": "cHmm_E23",
+        "description": "Number of 48 cell types in chromHMM state E23."
+    },
+    "52": {
+        "feature_name": "concavity_score",
+        "description": "Predicted ligand-binding sites calculated on AlphaFold models."
+    },
+    "53": {
+        "feature_name": "cHmm_E15",
+        "description": "Number of 48 cell types in chromHMM state E15."
+    },
+    "54": {
+        "feature_name": "after_ANCHOR_15",
+        "description": ""
+    },
+    "55": {
+        "feature_name": "cHmm_E22",
+        "description": "Number of 48 cell types in chromHMM state E22."
+    },
+    "56": {
+        "feature_name": "cHmm_E25",
+        "description": "Number of 48 cell types in chromHMM state E25."
+    },
+    "57": {
+        "feature_name": "ppi_combined_34",
+        "description": ""
+    },
+    "58": {
+        "feature_name": "1000Gp3_AF",
+        "description": "1000 genomes project allele frequency \u2013 all."
+    },
+    "59": {
+        "feature_name": "verPhyloP",
+        "description": "Vertebrate PhyloP score (excl. human)."
+    },
+    "60": {
+        "feature_name": "cHmm_E20",
+        "description": "Number of 48 cell types in chromHMM state E20."
+    },
+    "61": {
+        "feature_name": "STABILITY[SEQ]",
+        "description": "Categorical DDGun delta-delta g predictions from sequence."
+    },
+    "62": {
+        "feature_name": "tOverlapMotifs",
+        "description": "Number of overlapping predicted TF motifs."
+    },
+    "63": {
+        "feature_name": "Methylation",
+        "description": "PTM."
+    },
+    "64": {
+        "feature_name": "ppi_combined_9",
+        "description": ""
+    },
+    "65": {
+        "feature_name": "n_contacts",
+        "description": "The number of residue contacts calculated on AlphaFold models."
+    },
+    "66": {
+        "feature_name": "Mg2+_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "67": {
+        "feature_name": "DRNApredDNAscore_aa_window_15_prev",
+        "description": "Mean prediction of DNA binding residues for 15 residue window before variant."
+    },
+    "68": {
+        "feature_name": "ppi_combined_20",
+        "description": ""
+    },
+    "69": {
+        "feature_name": "ppi_combined_31",
+        "description": ""
+    },
+    "70": {
+        "feature_name": "num_interactions",
+        "description": "The number of unique protein interactors for a protein."
+    },
+    "71": {
+        "feature_name": "ppi_combined_7",
+        "description": ""
+    },
+    "72": {
+        "feature_name": "before_IUPRED_15",
+        "description": ""
+    },
+    "73": {
+        "feature_name": "ppi_combined_23",
+        "description": ""
+    },
+    "74": {
+        "feature_name": "ppi_combined_18",
+        "description": ""
+    },
+    "75": {
+        "feature_name": "ppi_combined_50",
+        "description": ""
+    },
+    "76": {
+        "feature_name": "AF_confidence",
+        "description": "The AlphaFold pLDDT value for the residue."
+    },
+    "77": {
+        "feature_name": "MMseq2_conservation_level_aa_window_3_next",
+        "description": "MMseq2 based conservation score for 3 residue window after variant."
+    },
+    "78": {
+        "feature_name": "cHmm_E6",
+        "description": "Number of 48 cell types in chromHMM state E6."
+    },
+    "79": {
+        "feature_name": "cHmm_E9",
+        "description": "Number of 48 cell types in chromHMM state E9."
+    },
+    "80": {
+        "feature_name": "Acetylation",
+        "description": "PTM."
+    },
+    "81": {
+        "feature_name": "MMSp_acceptor",
+        "description": "MMSplice acceptor score."
+    },
+    "82": {
+        "feature_name": "MMSp_donorIntron",
+        "description": "MMSplice donor intron."
+    },
+    "83": {
+        "feature_name": "dbscSNV-ada_score",
+        "description": "dbscSNV adaboost meta-predictor for spice-altering variants. "
+    },
+    "84": {
+        "feature_name": "gtex_Bladder",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "85": {
+        "feature_name": "dbscSNV-rf_score",
+        "description": "dbscSNV randomforest meta-predictor for spice-altering variants. "
+    },
+    "86": {
+        "feature_name": "MMseq2_conservation_level_aa_window_15_prev",
+        "description": "MMseq2 based conservation score for 15 residue window before variant."
+    },
+    "87": {
+        "feature_name": "DisoRNAscore_aa_window_8_prev",
+        "description": "Mean prediction of disordered RNA binding residues for 8 residue window before variant."
+    },
+    "88": {
+        "feature_name": "INTERACTION_REGION",
+        "description": "Uniprot interaction region."
+    },
+    "89": {
+        "feature_name": "after_ASA_8",
+        "description": ""
+    },
+    "90": {
+        "feature_name": "Ca2+_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "91": {
+        "feature_name": "ppi_combined_1",
+        "description": ""
+    },
+    "92": {
+        "feature_name": "cHmm_E19",
+        "description": "Number of 48 cell types in chromHMM state E19."
+    },
+    "93": {
+        "feature_name": "MOD_RES",
+        "description": "Uniprot modified residue."
+    },
+    "94": {
+        "feature_name": "ppi_combined_8",
+        "description": ""
+    },
+    "95": {
+        "feature_name": "GerpN",
+        "description": "GERP++ N score."
+    },
+    "96": {
+        "feature_name": "ppi_combined_11",
+        "description": ""
+    },
+    "97": {
+        "feature_name": "SpliceAI-acc-gain",
+        "description": "Masked SpliceAI acceptor gain score."
+    },
+    "98": {
+        "feature_name": "EncodeH3K4me1-sum",
+        "description": "Sum of Encode H3K4me1 levels (from 13 cell lines)."
+    },
+    "99": {
+        "feature_name": "ppi_combined_6",
+        "description": ""
+    },
+    "100": {
+        "feature_name": "DRNApredRNAscore_aa_window_8_next",
+        "description": "Mean prediction of RNA binding residues for 8 residue window after variant."
+    },
+    "101": {
+        "feature_name": "cHmm_E18",
+        "description": "Number of 48 cell types in chromHMM state E18."
+    },
+    "102": {
+        "feature_name": "cHmm_E4",
+        "description": "Number of 48 cell types in chromHMM state E4."
+    },
+    "103": {
+        "feature_name": "mirSVR-E",
+        "description": "mirSVR-E."
+    },
+    "104": {
+        "feature_name": "motifEScoreChng",
+        "description": "VEP score change for the overlapping motif site."
+    },
+    "105": {
+        "feature_name": "gtex_Prostate",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "106": {
+        "feature_name": "gtex_Brain_-_Hypothalamus",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "107": {
+        "feature_name": "SignalP_score_aa_window_15_next",
+        "description": "Mean prediction of signal peptides for 15 residue window after variant."
+    },
+    "108": {
+        "feature_name": "PSIPRED_strand_aa_window_3_prev",
+        "description": "Mean prediction of protein strands for 3 residue window before variant."
+    },
+    "109": {
+        "feature_name": "MMseq2_conservation_score_aa_window_3_prev",
+        "description": "MMseq2 based conservation score for 3 residue window before variant."
+    },
+    "110": {
+        "feature_name": "ppi_combined_27",
+        "description": ""
+    },
+    "111": {
+        "feature_name": "DisoDNAscore_aa",
+        "description": "Prediction of disordered DNA binding residues for the AA. "
+    },
+    "112": {
+        "feature_name": "DRNApredDNAscore_aa",
+        "description": "Prediction of DNA binding residues for the AA."
+    },
+    "113": {
+        "feature_name": "ASAquick_rawscore_aa_window_3_prev",
+        "description": "Mean prediction of raw protein accessible surface area for 3 residue window before variant."
+    },
+    "114": {
+        "feature_name": "cHmm_E21",
+        "description": "Number of 48 cell types in chromHMM state E21."
+    },
+    "115": {
+        "feature_name": "ppi_combined_5",
+        "description": ""
+    },
+    "116": {
+        "feature_name": "IMPACT",
+        "description": "The VEP impact modifier for the consequence type."
+    },
+    "117": {
+        "feature_name": "CDS_len",
+        "description": "Coding sequence length."
+    },
+    "118": {
+        "feature_name": "Number_of_paralogs",
+        "description": "Number of paralogs for a gene."
+    },
+    "119": {
+        "feature_name": "isHomomultimer",
+        "description": "Indicated proteins which form homomultimers."
+    },
+    "120": {
+        "feature_name": "after_IUPRED_3",
+        "description": ""
+    },
+    "121": {
+        "feature_name": "after_IUPRED_8",
+        "description": ""
+    },
+    "122": {
+        "feature_name": "before_RSA_8",
+        "description": ""
+    },
+    "123": {
+        "feature_name": "ASA",
+        "description": "Absolute solvent accessibility. "
+    },
+    "124": {
+        "feature_name": "AF_Relative_ASA",
+        "description": "Relative solvent accessibility calculated with DSSP on AlphaFold models."
+    },
+    "125": {
+        "feature_name": "mirSVR-Score",
+        "description": "mirSVR-Score. "
+    },
+    "126": {
+        "feature_name": "Selective_pressure",
+        "description": "Selective evolutionary pressure acting on a gene estimated by the McDonald\u2013Kreitman neutrality index at the population level."
+    },
+    "127": {
+        "feature_name": "DRNApredDNAscore_aa_window_8_prev",
+        "description": "Mean prediction of DNA binding residues for 8 residue window before variant."
+    },
+    "128": {
+        "feature_name": "motifDist",
+        "description": "Reference minus alternate allele difference in nucleotide frequency \nwithin an predicted overlapping motif."
+    },
+    "129": {
+        "feature_name": "SpliceAI-acc-loss",
+        "description": "Masked SpliceAI acceptor loss score."
+    },
+    "130": {
+        "feature_name": "Phosphorylation",
+        "description": "PTM."
+    },
+    "131": {
+        "feature_name": "Indispensability_score",
+        "description": "Estimates gene essentiality on the basis of a gene\u2019s network and evolutionary properties."
+    },
+    "132": {
+        "feature_name": "gtex_Fallopian_Tube",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "133": {
+        "feature_name": "ppi_combined_47",
+        "description": ""
+    },
+    "134": {
+        "feature_name": "ppi_combined_48",
+        "description": ""
+    },
+    "135": {
+        "feature_name": "cHmm_E16",
+        "description": "Number of 48 cell types in chromHMM state E16."
+    },
+    "136": {
+        "feature_name": "ppi_combined_3",
+        "description": ""
+    },
+    "137": {
+        "feature_name": "cHmm_E2",
+        "description": "Number of 48 cell types in chromHMM state E2."
+    },
+    "138": {
+        "feature_name": "cHmm_E1",
+        "description": "Number of 48 cell types in chromHMM state E1."
+    },
+    "139": {
+        "feature_name": "gtex_Colon_-_Transverse",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "140": {
+        "feature_name": "gtex_Nerve_-_Tibial",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "141": {
+        "feature_name": "LINSIGHT",
+        "description": "LINSIGHT score."
+    },
+    "142": {
+        "feature_name": "MMseq2_conservation_level_aa_window_8_next",
+        "description": "MMseq2 based conservation score for 8 residue window after variant."
+    },
+    "143": {
+        "feature_name": "SignalP_score_aa_window_3_prev",
+        "description": "Mean prediction of signal peptides for 3 residue window before variant."
+    },
+    "144": {
+        "feature_name": "ppi_combined_2",
+        "description": ""
+    },
+    "145": {
+        "feature_name": "ppi_combined_0",
+        "description": ""
+    },
+    "146": {
+        "feature_name": "cHmm_E5",
+        "description": "Number of 48 cell types in chromHMM state E5."
+    },
+    "147": {
+        "feature_name": "ASAquick_normscore_aa_window_3_next",
+        "description": "Mean prediction of normalized protein accessible surface area for 3 residue window after variant."
+    },
+    "148": {
+        "feature_name": "gtex_Brain_-_Spinal_cord_(cervical_c-1)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "149": {
+        "feature_name": "HEME_binding_gbind",
+        "description": "GraphBind ligand score."
+    },
+    "150": {
+        "feature_name": "ProteinLengthChange",
+        "description": "Change in protein length as a result of variant."
+    },
+    "151": {
+        "feature_name": "ppi_combined_14",
+        "description": ""
+    },
+    "152": {
+        "feature_name": "gtex_Small_Intestine_-_Terminal_Ileum",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "153": {
+        "feature_name": "ppi_combined_29",
+        "description": ""
+    },
+    "154": {
+        "feature_name": "ppi_combined_16",
+        "description": ""
+    },
+    "155": {
+        "feature_name": "bStatistic_y",
+        "description": ""
+    },
+    "156": {
+        "feature_name": "targetScan",
+        "description": "targetscan."
+    },
+    "157": {
+        "feature_name": "PSIPRED_helix_aa_window_8_next",
+        "description": "Mean prediction of protein helices for 8 residue window after variant."
+    },
+    "158": {
+        "feature_name": "EncodetotalRNA-max",
+        "description": "Maximum of Encode totalRNA-seq levels (from 10 cell lines always minus and plus strand)."
+    },
+    "159": {
+        "feature_name": "SignalP_score_aa_window_3_next",
+        "description": "Mean prediction of signal peptides for 3 residue window after variant."
+    },
+    "160": {
+        "feature_name": "gtex_Spleen",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "161": {
+        "feature_name": "MoRFchibiScore_aa",
+        "description": "Prediction of MoRF regions for the AA."
+    },
+    "162": {
+        "feature_name": "mirSVR-Aln",
+        "description": "mirSVR-Aln."
+    },
+    "163": {
+        "feature_name": "GerpS",
+        "description": "GERP++ S score."
+    },
+    "164": {
+        "feature_name": "DisoDNAscore_aa_window_3_next",
+        "description": "Mean prediction of disordered DNA binding residues for 3 residue window after variant."
+    },
+    "165": {
+        "feature_name": "EncodeH3K36me3-max",
+        "description": "Maximum of Encode H3K36me3 levels (from 10 cell lines)."
+    },
+    "166": {
+        "feature_name": "DFLpredScore_aa_window_8_prev",
+        "description": "Mean prediction of disordered flexible linker for 8 residue window before variant."
+    },
+    "167": {
+        "feature_name": "DRNApredRNAscore_aa_window_15_next",
+        "description": "Mean prediction of RNA binding residues for 15 residue window after variant."
+    },
+    "168": {
+        "feature_name": "gtex_Brain_-_Cerebellum",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "169": {
+        "feature_name": "ASAquick_rawscore_aa_window_3_next",
+        "description": "Mean prediction of raw protein accessible surface area for 3 residue window after variant."
+    },
+    "170": {
+        "feature_name": "MutationTaster_score",
+        "description": "Mutation Taster score."
+    },
+    "171": {
+        "feature_name": "cHmm_E8",
+        "description": "Number of 48 cell types in chromHMM state E8."
+    },
+    "172": {
+        "feature_name": "SCRIBERscore_aa_window_3_prev",
+        "description": "Mean prediction of protein binding residues for 3 residue window before variant."
+    },
+    "173": {
+        "feature_name": "PSIPRED_strand_aa_window_15_next",
+        "description": "Mean prediction of protein strands for 15 residue window after variant."
+    },
+    "174": {
+        "feature_name": "PSIPRED_strand_aa_window_8_next",
+        "description": "Mean prediction of protein strands for 8 residue window after variant."
+    },
+    "175": {
+        "feature_name": "PSIPRED_strand_aa_window_8_prev",
+        "description": "Mean prediction of protein strands for 8 residue window before variant."
+    },
+    "176": {
+        "feature_name": "PSIPRED_helix_aa",
+        "description": "Prediction of protein helices for the AA."
+    },
+    "177": {
+        "feature_name": "PSIPRED_helix_aa_window_15_next",
+        "description": "Mean prediction of protein helices for 15 residue window after variant."
+    },
+    "178": {
+        "feature_name": "PSIPRED_helix_aa_window_8_prev",
+        "description": "Mean prediction of protein helices for 8 residue window before variant."
+    },
+    "179": {
+        "feature_name": "cHmm_E12",
+        "description": "Number of 48 cell types in chromHMM state E12."
+    },
+    "180": {
+        "feature_name": "MMseq2_conservation_score_aa_window_15_next",
+        "description": "MMseq2 based conservation score for 15 residue window after variant."
+    },
+    "181": {
+        "feature_name": "MMseq2_conservation_score_aa_window_3_next",
+        "description": "MMseq2 based conservation score for 3 residue window after variant."
+    },
+    "182": {
+        "feature_name": "cHmm_E3",
+        "description": "Number of 48 cell types in chromHMM state E3."
+    },
+    "183": {
+        "feature_name": "RSA",
+        "description": "Relative solvent accessibility. "
+    },
+    "184": {
+        "feature_name": "MMseq2_conservation_level_aa",
+        "description": "MMseq2 based conservation score binned to deciles for aa."
+    },
+    "185": {
+        "feature_name": "gtex_Adipose_-_Subcutaneous",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "186": {
+        "feature_name": "EncodeH3K79me2-sum",
+        "description": "Sum of Encode H3K79me2 levels (from 13 cell lines)."
+    },
+    "187": {
+        "feature_name": "MMseq2_conservation_level_aa_window_3_prev",
+        "description": "MMseq2 based conservation score for 3 residue window before variant."
+    },
+    "188": {
+        "feature_name": "after_RSA_3",
+        "description": ""
+    },
+    "189": {
+        "feature_name": "DisoPROscore_aa",
+        "description": "Prediction of disordered protein binding residues for the AA. "
+    },
+    "190": {
+        "feature_name": "after_ASA_3",
+        "description": ""
+    },
+    "191": {
+        "feature_name": "EncodeH4K20me1-sum",
+        "description": "Sum of Encode H4K20me1 levels (from 11 cell lines)."
+    },
+    "192": {
+        "feature_name": "SCRIBERscore_aa_window_15_next",
+        "description": "Mean prediction of protein binding residues for 15 residue window after variant."
+    },
+    "193": {
+        "feature_name": "ppi_combined_26",
+        "description": ""
+    },
+    "194": {
+        "feature_name": "ANCHOR2",
+        "description": "Disordered binding region prediction."
+    },
+    "195": {
+        "feature_name": "ASAquick_normscore_aa_window_8_next",
+        "description": "Mean prediction of normalized protein accessible surface area for 8 residue window after variant."
+    },
+    "196": {
+        "feature_name": "ppi_combined_55",
+        "description": ""
+    },
+    "197": {
+        "feature_name": "priPhCons",
+        "description": "Primate PhastCons conservation score (excl. human)."
+    },
+    "198": {
+        "feature_name": "ASAquick_normscore_aa_window_3_prev",
+        "description": "Mean prediction of normalized protein accessible surface area for 3 residue window before variant."
+    },
+    "199": {
+        "feature_name": "ppi_combined_10",
+        "description": ""
+    },
+    "200": {
+        "feature_name": "MaxEntScan_alt",
+        "description": "Splice affect score for the alternate AA."
+    },
+    "201": {
+        "feature_name": "ppi_combined_15",
+        "description": ""
+    },
+    "202": {
+        "feature_name": "gtex_Heart_-_Atrial_Appendage",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "203": {
+        "feature_name": "ppi_combined_39",
+        "description": ""
+    },
+    "204": {
+        "feature_name": "ppi_combined_56",
+        "description": ""
+    },
+    "205": {
+        "feature_name": "DRNApredDNAscore_aa_window_15_next",
+        "description": "Mean prediction of DNA binding residues for 15 residue window after variant."
+    },
+    "206": {
+        "feature_name": "ppi_combined_63",
+        "description": ""
+    },
+    "207": {
+        "feature_name": "gtex_Cells_-_EBV-transformed_lymphocytes",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "208": {
+        "feature_name": "ppi_combined_33",
+        "description": ""
+    },
+    "209": {
+        "feature_name": "gtex_Ovary",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "210": {
+        "feature_name": "MMseq2_conservation_score_aa_window_15_prev",
+        "description": "MMseq2 based conservation score for 15 residue window before variant."
+    },
+    "211": {
+        "feature_name": "gtex_Pancreas",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "212": {
+        "feature_name": "polyphen_avensit",
+        "description": "The  number of residue contacts with critical sites, average per homologous PDB chain."
+    },
+    "213": {
+        "feature_name": "gtex_Liver",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "214": {
+        "feature_name": "FATHMM_score",
+        "description": "FATHMM score."
+    },
+    "215": {
+        "feature_name": "MMseq2_conservation_score_aa_window_8_next",
+        "description": "MMseq2 based conservation score for 8 residue window after variant."
+    },
+    "216": {
+        "feature_name": "MoRFchibiScore_aa_window_3_prev",
+        "description": "Mean prediction of MoRF regions for 3 residue window before variant."
+    },
+    "217": {
+        "feature_name": "gtex_Brain_-_Putamen_(basal_ganglia)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "218": {
+        "feature_name": "MoRFchibiScore_aa_window_3_next",
+        "description": "Mean prediction of MoRF regions for 3 residue window after variant."
+    },
+    "219": {
+        "feature_name": "SignalP_score_aa_window_8_next",
+        "description": "Mean prediction of signal peptides for 8 residue window after variant."
+    },
+    "220": {
+        "feature_name": "MMseq2_conservation_level_aa_window_8_prev",
+        "description": "MMseq2 based conservation score for 8 residue window before variant."
+    },
+    "221": {
+        "feature_name": "COSMIC",
+        "description": "Ln(frequency) of missense change type in COSMIC (release 38)."
+    },
+    "222": {
+        "feature_name": "COSMICvsSWISSPROT",
+        "description": "Ln(frequency) of missense change in COSMIC (release 38) normalized by the frequency of reference amino acid residue in human proteins in SwissProt/TrEMBL."
+    },
+    "223": {
+        "feature_name": "SignalP_score_aa_window_15_prev",
+        "description": "Mean prediction of signal peptides for 15 residue window before variant."
+    },
+    "224": {
+        "feature_name": "PSIPRED_helix_aa_window_3_next",
+        "description": "Mean prediction of protein helices for 3 residue window after variant."
+    },
+    "225": {
+        "feature_name": "polyphen_nobs",
+        "description": "Number of residues observed at the substitution position in multiple alignment (without gaps)."
+    },
+    "226": {
+        "feature_name": "gtex_Testis",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "227": {
+        "feature_name": "gtex_Thyroid",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "228": {
+        "feature_name": "PSIPRED_strand_aa_window_15_prev",
+        "description": "Mean prediction of protein strands for 15 residue window before variant."
+    },
+    "229": {
+        "feature_name": "PSIPRED_strand_aa",
+        "description": "Prediction of protein strands for the AA."
+    },
+    "230": {
+        "feature_name": "SCRIBERscore_aa_window_8_prev",
+        "description": "Mean prediction of protein binding residues for 8 residue window before variant."
+    },
+    "231": {
+        "feature_name": "gnom_mutcount",
+        "description": "The number of gnomAD variants proximal to a given residue in 3D space."
+    },
+    "232": {
+        "feature_name": "cHmm_E13",
+        "description": "Number of 48 cell types in chromHMM state E13."
+    },
+    "233": {
+        "feature_name": "CpG",
+        "description": "Percent CpG in a window of +/-75bp."
+    },
+    "234": {
+        "feature_name": "DisoRNAscore_aa",
+        "description": "Prediction of disordered RNA binding residues for the AA. "
+    },
+    "235": {
+        "feature_name": "DisoRNAscore_aa_window_15_next",
+        "description": "Mean prediction of disordered RNA binding residues for 15 residue window after variant."
+    },
+    "236": {
+        "feature_name": "ASAquick_rawscore_aa_window_15_prev",
+        "description": "Mean prediction of raw protein accessible surface area for 15 residue window before variant."
+    },
+    "237": {
+        "feature_name": "ASAquick_rawscore_aa_window_8_next",
+        "description": "Mean prediction of raw protein accessible surface area for 8 residue window after variant."
+    },
+    "238": {
+        "feature_name": "mamPhCons",
+        "description": "Mammalian PhastCons conservation score (excl. human)."
+    },
+    "239": {
+        "feature_name": "EncodeH3K36me3-sum",
+        "description": "Sum of Encode H3K36me3 levels (from 10 cell lines)."
+    },
+    "240": {
+        "feature_name": "gtex_Cells_-_Cultured_fibroblasts",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "241": {
+        "feature_name": "gtex_Brain_-_Hippocampus",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "242": {
+        "feature_name": "DFLpredScore_aa_window_3_next",
+        "description": "Mean prediction of disordered flexible linker for 3 residue window after variant."
+    },
+    "243": {
+        "feature_name": "EncodeH3K9ac-max",
+        "description": "Maximum of Encode H3K9ac levels (from 13 cell lines)."
+    },
+    "244": {
+        "feature_name": "DRNApredDNAscore_aa_window_3_next",
+        "description": "Mean prediction of DNA binding residues for 3 residue window after variant."
+    },
+    "245": {
+        "feature_name": "Grantham_x",
+        "description": "The Grantham distance from reference to mutation amino acid residue."
+    },
+    "246": {
+        "feature_name": "gtex_Cervix_-_Ectocervix",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "247": {
+        "feature_name": "ppi_combined_61",
+        "description": ""
+    },
+    "248": {
+        "feature_name": "gtex_Brain_-_Nucleus_accumbens_(basal_ganglia)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "249": {
+        "feature_name": "GerpRSpval",
+        "description": "GERP++ RS score p-value."
+    },
+    "250": {
+        "feature_name": "ppi_combined_59",
+        "description": ""
+    },
+    "251": {
+        "feature_name": "MoRFchibiScore_aa_window_15_prev",
+        "description": "Mean prediction of MoRF regions for 15 residue window before variant."
+    },
+    "252": {
+        "feature_name": "GerpRS",
+        "description": "GERP++ RS score."
+    },
+    "253": {
+        "feature_name": "LIST_S2_score",
+        "description": "LIST-S2 score."
+    },
+    "254": {
+        "feature_name": "before_RSA_15",
+        "description": ""
+    },
+    "255": {
+        "feature_name": "PROVEAN_score",
+        "description": "PROVEAN score."
+    },
+    "256": {
+        "feature_name": "DisoRNAscore_aa_window_3_next",
+        "description": "Mean prediction of disordered RNA binding residues for 3 residue window after variant."
+    },
+    "257": {
+        "feature_name": "gtex_Adipose_-_Visceral_(Omentum)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "258": {
+        "feature_name": "gtex_Artery_-_Aorta",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "259": {
+        "feature_name": "gtex_Esophagus_-_Muscularis",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "260": {
+        "feature_name": "gtex_Esophagus_-_Mucosa",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "261": {
+        "feature_name": "ppi_combined_51",
+        "description": ""
+    },
+    "262": {
+        "feature_name": "GDI",
+        "description": "The accumulated mutational damage of each human gene in healthy human population."
+    },
+    "263": {
+        "feature_name": "PHOSPHORYLATION",
+        "description": "PTM."
+    },
+    "264": {
+        "feature_name": "gtex_Muscle_-_Skeletal",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "265": {
+        "feature_name": "gtex_Vagina",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "266": {
+        "feature_name": "SignalP_score_aa_window_8_prev",
+        "description": "Mean prediction of signal peptides for 8 residue window before variant."
+    },
+    "267": {
+        "feature_name": "gtex_Brain_-_Frontal_Cortex_(BA9)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "268": {
+        "feature_name": "polyphen_mindhet",
+        "description": "The closest residue contact with a heteroatom, \u00c5."
+    },
+    "269": {
+        "feature_name": "gtex_Artery_-_Coronary",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "270": {
+        "feature_name": "gtex_Brain_-_Caudate_(basal_ganglia)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "271": {
+        "feature_name": "gtex_Skin_-_Not_Sun_Exposed_(Suprapubic)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "272": {
+        "feature_name": "gtex_Cervix_-_Endocervix",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "273": {
+        "feature_name": "polyphen_dvol",
+        "description": "Change in residue side chain volume."
+    },
+    "274": {
+        "feature_name": "gtex_Brain_-_Amygdala",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "275": {
+        "feature_name": "DisoRNAscore_aa_window_15_prev",
+        "description": "Mean prediction of disordered RNA binding residues for 15 residue window before variant."
+    },
+    "276": {
+        "feature_name": "ppi_combined_53",
+        "description": ""
+    },
+    "277": {
+        "feature_name": "ASAquick_normscore_aa_window_15_prev",
+        "description": "Mean prediction of normalized protein accessible surface area for 15 residue window before variant."
+    },
+    "278": {
+        "feature_name": "S_DDG[SEQ]",
+        "description": "DDGun delta-delta G predictions from sequence."
+    },
+    "279": {
+        "feature_name": "ASAquick_normscore_aa_window_8_prev",
+        "description": "Mean prediction of normalized protein accessible surface area for 8 residue window before variant."
+    },
+    "280": {
+        "feature_name": "EncodeDNase-max",
+        "description": "Maximum of Encode Dnase-seq levels (from 12 cell lines)."
+    },
+    "281": {
+        "feature_name": "M_CAP_score",
+        "description": "M-CAP score."
+    },
+    "282": {
+        "feature_name": "ppi_combined_60",
+        "description": ""
+    },
+    "283": {
+        "feature_name": "ppi_combined_58",
+        "description": ""
+    },
+    "284": {
+        "feature_name": "NMD",
+        "description": "Prediction indicating stop_gained variant allowing for transcript escape of nonsense-mediated mRNA decay"
+    },
+    "285": {
+        "feature_name": "HUVEC_fitCons_score",
+        "description": "fitCons score based on cell type HUVEC."
+    },
+    "286": {
+        "feature_name": "H1_hESC_fitCons_score",
+        "description": "fitCons score based on cell type H1_hESC."
+    },
+    "287": {
+        "feature_name": "ppi_combined_49",
+        "description": ""
+    },
+    "288": {
+        "feature_name": "Freq100bp",
+        "description": "Number of frequent (MAF > 0.05) BRAVO SNV in 100 bp window nearby."
+    },
+    "289": {
+        "feature_name": "HGMD2003",
+        "description": "Number of times that the reference to mutation substitution occurs in the Human Gene Mutation Database, 2003 version."
+    },
+    "290": {
+        "feature_name": "ppi_combined_30",
+        "description": ""
+    },
+    "291": {
+        "feature_name": "JM",
+        "description": "Amino acid substitution score from the Miyazawa-Jernigan contact energy matrix."
+    },
+    "292": {
+        "feature_name": "ppi_combined_44",
+        "description": ""
+    },
+    "293": {
+        "feature_name": "ppi_combined_42",
+        "description": ""
+    },
+    "294": {
+        "feature_name": "rf_score",
+        "description": "dbscSNV randomforest meta-predictor for spice-altering variants. "
+    },
+    "295": {
+        "feature_name": "ppi_combined_40",
+        "description": ""
+    },
+    "296": {
+        "feature_name": "Volume",
+        "description": "The change in residue volume resulting from the replacement (in units of cubic Angstroms)."
+    },
+    "297": {
+        "feature_name": "ASAquick_rawscore_aa",
+        "description": "Prediction of protein accessible surface area for the AA."
+    },
+    "298": {
+        "feature_name": "EncodeH4K20me1-max",
+        "description": "Maximum of Encode H4K20me1 levels (from 11 cell lines)."
+    },
+    "299": {
+        "feature_name": "DFLpredScore_aa_window_15_next",
+        "description": "Mean prediction of disordered flexible linker for 15 residue window after variant."
+    },
+    "300": {
+        "feature_name": "MoRFchibiScore_aa_window_8_next",
+        "description": "Mean prediction of MoRF regions for 8 residue window after variant."
+    },
+    "301": {
+        "feature_name": "DisoPROscore_aa_window_15_next",
+        "description": "Mean prediction of disordered protein binding residues for 15 residue window after variant."
+    },
+    "302": {
+        "feature_name": "DFLpredScore_aa_window_15_prev",
+        "description": "Mean prediction of disordered flexible linker for 15 residue window before variant."
+    },
+    "303": {
+        "feature_name": "SiPhy_29way_logOdds",
+        "description": "SiPhy score based on 29 mammals genomes."
+    },
+    "304": {
+        "feature_name": "DisoPROscore_aa_window_8_prev",
+        "description": "Mean prediction of disordered protein binding residues for 8 residue window before variant."
+    },
+    "305": {
+        "feature_name": "DisoDNAscore_aa_window_15_next",
+        "description": "Mean prediction of disordered DNA binding residues for 15 residue window after variant."
+    },
+    "306": {
+        "feature_name": "gnomsingle_mutcount",
+        "description": "The number of single occurrence gnomAD variants proximal to a given residue in 3D space."
+    },
+    "307": {
+        "feature_name": "DisoDNAscore_aa_window_3_prev",
+        "description": "Mean prediction of disordered DNA binding residues for 3 residue window before variant."
+    },
+    "308": {
+        "feature_name": "MVP_score",
+        "description": "MVP score."
+    },
+    "309": {
+        "feature_name": "ppi_combined_17",
+        "description": ""
+    },
+    "310": {
+        "feature_name": "PSIPRED_helix_aa_window_15_prev",
+        "description": "Mean prediction of protein helices for 15 residue window before variant."
+    },
+    "311": {
+        "feature_name": "MaxEntScan_diff",
+        "description": "Difference of alt and ref splicing scores."
+    },
+    "312": {
+        "feature_name": "denovo_Zscore",
+        "description": "Estimate of the rate of de novo mutation per gene and whether a given gene contains more de novo mutations than expected by chance alone."
+    },
+    "313": {
+        "feature_name": "PSIPRED_helix_aa_window_3_prev",
+        "description": "Mean prediction of protein helices for 3 residue window before variant."
+    },
+    "314": {
+        "feature_name": "MMseq2_conservation_score_aa_window_8_prev",
+        "description": "MMseq2 based conservation score for 8 residue window before variant."
+    },
+    "315": {
+        "feature_name": "PAM250",
+        "description": "Amino acid substitution score from the PAM250 matrix."
+    },
+    "316": {
+        "feature_name": "S-GLYCOSYLATION",
+        "description": "PTM."
+    },
+    "317": {
+        "feature_name": "SUMOYLATION",
+        "description": "PTM."
+    },
+    "318": {
+        "feature_name": "Transition",
+        "description": "Frequency of transition between two neighboring amino acids based on all human proteins in SwissProt/TrEMBL."
+    },
+    "319": {
+        "feature_name": "rel_prot_pos",
+        "description": "Protein position / Protein length * 10."
+    },
+    "320": {
+        "feature_name": "polyphen_dscore",
+        "description": "Difference of PSIC scores for two amino acid residue variants (score1 \u2013 score2)."
+    },
+    "321": {
+        "feature_name": "COSMICvsHAPMAP",
+        "description": "Ln(frequency) of missense change in COSMIC (release 38) normalized by the number of times the change type was observed in HapMap validated SNPs in dbSNP Build 129."
+    },
+    "322": {
+        "feature_name": "C-GLYCOSYLATION",
+        "description": "PTM."
+    },
+    "323": {
+        "feature_name": "Charge",
+        "description": "The change in formal charge resulting from replacing the reference amino acid residue with the mutation. Histidine is assumed protonated (formal charge of +1)."
+    },
+    "324": {
+        "feature_name": "cHmm_E10",
+        "description": "Number of 48 cell types in chromHMM state E10."
+    },
+    "325": {
+        "feature_name": "RemapOverlapTF",
+        "description": "Remap number of different transcription factors binding."
+    },
+    "326": {
+        "feature_name": "phyloP100way_vertebrate",
+        "description": "Conservation score based on multiple alignments of 100 vertebrate genomes including human."
+    },
+    "327": {
+        "feature_name": "phastCons30way_mammalian",
+        "description": "Conservation score based on multiple alignments of 30 mammalian genomes including human."
+    },
+    "328": {
+        "feature_name": "MYRISTOYLATION",
+        "description": "PTM."
+    },
+    "329": {
+        "feature_name": "cHmm_E17",
+        "description": "Number of 48 cell types in chromHMM state E17."
+    },
+    "330": {
+        "feature_name": "MPC_score",
+        "description": "MPC score."
+    },
+    "331": {
+        "feature_name": "EncodeH3K4me2-max",
+        "description": "Maximum of Encode H3K4me2 levels (from 14 cell lines)."
+    },
+    "332": {
+        "feature_name": "EncodeH3K4me3-sum",
+        "description": "Sum of Encode H3K4me3 levels (from 14 cell lines)."
+    },
+    "333": {
+        "feature_name": "EncodeH3K4me3-max",
+        "description": "Maximum of Encode H3K4me3 levels (from 14 cell lines)."
+    },
+    "334": {
+        "feature_name": "EncodeDNase-sum",
+        "description": "Sum of Encode Dnase-seq levels (from 12 cell lines)."
+    },
+    "335": {
+        "feature_name": "rel_cDNA_pos",
+        "description": "cDNA position / cDNA length * 10."
+    },
+    "336": {
+        "feature_name": "LRT_score",
+        "description": "LRT score."
+    },
+    "337": {
+        "feature_name": "GERPplus_plus_NR",
+        "description": ""
+    },
+    "338": {
+        "feature_name": "Dst2Splice",
+        "description": "Distance to splice site in 20bp; positive: exonic, negative: intronic."
+    },
+    "339": {
+        "feature_name": "rel_CDS_pos",
+        "description": "CDS position / CDS length * 10."
+    },
+    "340": {
+        "feature_name": "polyphen_mindsit",
+        "description": "The  closest residue contact with a critical site, \u00c5."
+    },
+    "341": {
+        "feature_name": "RemapOverlapCL",
+        "description": "Remap number of different transcription factor - cell line combinations binding."
+    },
+    "342": {
+        "feature_name": "O-GLYCOSYLATION",
+        "description": "PTM."
+    },
+    "343": {
+        "feature_name": "gtex_Colon_-_Sigmoid",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "344": {
+        "feature_name": "DRNApredRNAscore_aa_window_3_next",
+        "description": "Mean prediction of RNA binding residues for 3 residue window after variant."
+    },
+    "345": {
+        "feature_name": "ppi_combined_54",
+        "description": ""
+    },
+    "346": {
+        "feature_name": "ppi_combined_62",
+        "description": ""
+    },
+    "347": {
+        "feature_name": "DRNApredDNAscore_aa_window_8_next",
+        "description": "Mean prediction of DNA binding residues for 8 residue window after variant."
+    },
+    "348": {
+        "feature_name": "gtex_Kidney_-_Cortex",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "349": {
+        "feature_name": "gtex_Heart_-_Left_Ventricle",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "350": {
+        "feature_name": "SIFT_score",
+        "description": "SIFT score."
+    },
+    "351": {
+        "feature_name": "ASAquick_normscore_aa_window_15_next",
+        "description": "Mean prediction of normalized protein accessible surface area for 15 residue window after variant."
+    },
+    "352": {
+        "feature_name": "gtex_Esophagus_-_Gastroesophageal_Junction",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "353": {
+        "feature_name": "NearestExonJB_len",
+        "description": "Length of the nearest exon within 10,000 bps."
+    },
+    "354": {
+        "feature_name": "DFLpredScore_aa_window_8_next",
+        "description": "Mean prediction of disordered flexible linker for 8 residue window after variant."
+    },
+    "355": {
+        "feature_name": "DRNApredRNAscore_aa_window_8_prev",
+        "description": "Mean prediction of RNA binding residues for 8 residue window before variant."
+    },
+    "356": {
+        "feature_name": "gtex_Artery_-_Tibial",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "357": {
+        "feature_name": "gtex_Adrenal_Gland",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "358": {
+        "feature_name": "SignalP_score_aa",
+        "description": "Prediction of signal peptides for the AA. "
+    },
+    "359": {
+        "feature_name": "SCRIBERscore_aa_window_8_next",
+        "description": "Mean prediction of protein binding residues for 8 residue window after variant."
+    },
+    "360": {
+        "feature_name": "DisoDNAscore_aa_window_8_next",
+        "description": "Mean prediction of disordered DNA binding residues for 8 residue window after variant."
+    },
+    "361": {
+        "feature_name": "SCRIBERscore_aa_window_15_prev",
+        "description": "Mean prediction of protein binding residues for 15 residue window before variant."
+    },
+    "362": {
+        "feature_name": "DisoPROscore_aa_window_3_next",
+        "description": "Mean prediction of disordered protein binding residues for 3 residue window after variant."
+    },
+    "363": {
+        "feature_name": "gtex_Brain_-_Cerebellar_Hemisphere",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "364": {
+        "feature_name": "gtex_Minor_Salivary_Gland",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "365": {
+        "feature_name": "DRNApredDNAscore_aa_window_3_prev",
+        "description": "Mean prediction of DNA binding residues for 3 residue window before variant."
+    },
+    "366": {
+        "feature_name": "MoRFchibiScore_aa_window_8_prev",
+        "description": "Mean prediction of MoRF regions for 8 residue window before variant."
+    },
+    "367": {
+        "feature_name": "ppi_combined_21",
+        "description": ""
+    },
+    "368": {
+        "feature_name": "ppi_combined_19",
+        "description": ""
+    },
+    "369": {
+        "feature_name": "gtex_Stomach",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "370": {
+        "feature_name": "S_DDG[3D]",
+        "description": "DDGun delta-delta G predictions from AlphaFold models."
+    },
+    "371": {
+        "feature_name": "ppi_combined_32",
+        "description": ""
+    },
+    "372": {
+        "feature_name": "AF_dssp_secondary_structure",
+        "description": "Secondary structure characterization of AlphaFold models from DSSP."
+    },
+    "373": {
+        "feature_name": "ppi_combined_37",
+        "description": ""
+    },
+    "374": {
+        "feature_name": "ppi_combined_24",
+        "description": ""
+    },
+    "375": {
+        "feature_name": "ppi_combined_12",
+        "description": ""
+    },
+    "376": {
+        "feature_name": "ppi_combined_41",
+        "description": ""
+    },
+    "377": {
+        "feature_name": "ppi_combined_43",
+        "description": ""
+    },
+    "378": {
+        "feature_name": "ppi_combined_38",
+        "description": ""
+    },
+    "379": {
+        "feature_name": "STABILITY[3D]",
+        "description": "Categorical DDGun delta-delta g predictions from AlphaFold models."
+    },
+    "380": {
+        "feature_name": "DFLpredScore_aa",
+        "description": "Prediction of disordered flexible linker residues for the AA."
+    },
+    "381": {
+        "feature_name": "DisoPROscore_aa_window_3_prev",
+        "description": "Mean prediction of disordered protein binding residues for 3 residue window before variant."
+    },
+    "382": {
+        "feature_name": "DRNApredRNAscore_aa",
+        "description": "Prediction of RNA binding residues for the AA."
+    },
+    "383": {
+        "feature_name": "MaxEntScan_ref",
+        "description": "Splice affect score for the reference AA."
+    },
+    "384": {
+        "feature_name": "DisoPROscore_aa_window_15_prev",
+        "description": "Mean prediction of disordered protein binding residues for 15 residue window before variant."
+    },
+    "385": {
+        "feature_name": "HAPMAP",
+        "description": "Ln(frequency) of missense change type in HapMap validated SNPs in dbSNP Build 129."
+    },
+    "386": {
+        "feature_name": "hgmd_mutcount",
+        "description": "The number of HGMD variants proximal to a given residue in 3D space."
+    },
+    "387": {
+        "feature_name": "MutationAssessor_score",
+        "description": "Mutation Assessor score."
+    },
+    "388": {
+        "feature_name": "ppi_combined_46",
+        "description": ""
+    },
+    "389": {
+        "feature_name": "EncodeH3K9me3-sum",
+        "description": "Sum of Encode H3K9me3 levels (from 14 cell lines)."
+    },
+    "390": {
+        "feature_name": "EncodeH3K9me3-max",
+        "description": "Maximum of Encode H3K9me3 levels (from 14 cell lines)."
+    },
+    "391": {
+        "feature_name": "Freq10000bp",
+        "description": "Number of frequent (MAF > 0.05) BRAVO SNV in 10000 bp window nearby."
+    },
+    "392": {
+        "feature_name": "EncodeH3K27me3-sum",
+        "description": "Sum of Encode H3K27me3 levels (from 14 cell lines)."
+    },
+    "393": {
+        "feature_name": "EncodeH3K27me3-max",
+        "description": "Maximum of Encode H3K27me3 levels (from 14 cell lines)."
+    },
+    "394": {
+        "feature_name": "ASAquick_rawscore_aa_window_8_prev",
+        "description": "Mean prediction of raw protein accessible surface area for 8 residue window before variant."
+    },
+    "395": {
+        "feature_name": "EncodeH3K79me2-max",
+        "description": "Maximum of Encode H3K79me2 levels (from 13 cell lines)."
+    },
+    "396": {
+        "feature_name": "ppi_combined_35",
+        "description": ""
+    },
+    "397": {
+        "feature_name": "fathmm_XF_coding_score",
+        "description": "FATHMM-XF score."
+    },
+    "398": {
+        "feature_name": "s_het",
+        "description": "Genome-wide distribution of selective effects for heterozygous PTVs."
+    },
+    "399": {
+        "feature_name": "ppi_combined_57",
+        "description": ""
+    },
+    "400": {
+        "feature_name": "Sngl10000bp",
+        "description": "Number of single occurence BRAVO SNV in 10000 bp window nearby."
+    },
+    "401": {
+        "feature_name": "GERPplus_plus_RS",
+        "description": ""
+    },
+    "402": {
+        "feature_name": "ppi_combined_28",
+        "description": ""
+    },
+    "403": {
+        "feature_name": "EncodeH3K27ac-sum",
+        "description": "Sum of Encode H3K27ac levels (from 14 cell lines)."
+    },
+    "404": {
+        "feature_name": "ppi_combined_4",
+        "description": ""
+    },
+    "405": {
+        "feature_name": "ConsScore",
+        "description": "Score assigned to VEP consequence."
+    },
+    "406": {
+        "feature_name": "gtex_Breast_-_Mammary_Tissue",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "407": {
+        "feature_name": "gtex_Brain_-_Substantia_nigra",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "408": {
+        "feature_name": "gtex_Brain_-_Cortex",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "409": {
+        "feature_name": "polyphen_score1",
+        "description": "PSIC score for wild type AA residue."
+    },
+    "410": {
+        "feature_name": "gtex_Uterus",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "411": {
+        "feature_name": "gtex_Brain_-_Anterior_cingulate_cortex_(BA24)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "412": {
+        "feature_name": "Dst2SplType",
+        "description": "Closest splice site is ACCEPTOR or DONOR."
+    },
+    "413": {
+        "feature_name": "motifECount",
+        "description": "Total number of overlapping motifs"
+    },
+    "414": {
+        "feature_name": "cHmm_E7",
+        "description": "Number of 48 cell types in chromHMM state E7."
+    },
+    "415": {
+        "feature_name": "SCRIBERscore_aa",
+        "description": "Prediction of protein binding residues for the AA."
+    },
+    "416": {
+        "feature_name": "MoRFchibiScore_aa_window_15_next",
+        "description": "Mean prediction of MoRF regions for 15 residue window after variant."
+    },
+    "417": {
+        "feature_name": "polyphen_avenhet",
+        "description": "The number of residue contacts with heteroatoms, average per homologous PDB chain "
+    },
+    "418": {
+        "feature_name": "gtex_Kidney_-_Medulla",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "419": {
+        "feature_name": "Rare10000bp",
+        "description": "Number of rare (MAF < 0.05) BRAVO SNV in 10000 bp window nearby."
+    },
+    "420": {
+        "feature_name": "minDistTSE",
+        "description": "Distance to closest Transcribed Sequence End (TSE)."
+    },
+    "421": {
+        "feature_name": "polyphen_avenint",
+        "description": "Number of residue contacts with other chains, average per homologous PDB chain."
+    },
+    "422": {
+        "feature_name": "ppi_combined_36",
+        "description": ""
+    },
+    "423": {
+        "feature_name": "EnsembleRegulatoryFeature",
+        "description": "Matches in the Ensemble Regulatory Built (similar to annotype)."
+    },
+    "424": {
+        "feature_name": "ASAquick_normscore_aa",
+        "description": "Prediction of normalized protein accessible surface area for the AA."
+    },
+    "425": {
+        "feature_name": "polyphen_idpsnp",
+        "description": "Maximum congruency of the mutant amino acid residue to the sequences in multiple alignment with the mutant residue."
+    },
+    "426": {
+        "feature_name": "GC",
+        "description": "Percent GC in a window of +/- 75bp."
+    },
+    "427": {
+        "feature_name": "EncodeH2AFZ-sum",
+        "description": "Sum of Encode H2AFZ levels (from 13 cell lines)."
+    },
+    "428": {
+        "feature_name": "polyphen_bfact",
+        "description": "Normalized B-factor (temperature factor) for the residue."
+    },
+    "429": {
+        "feature_name": "minDistTSS",
+        "description": "Distance to closest Transcribed Sequence Start (TSS)."
+    },
+    "430": {
+        "feature_name": "ASAquick_rawscore_aa_window_15_next",
+        "description": "Mean prediction of raw protein accessible surface area for 15 residue window after variant."
+    },
+    "431": {
+        "feature_name": "EncodetotalRNA-sum",
+        "description": "Sum of Encode totalRNA-seq levels (from 10 cell lines always minus and plus strand)."
+    },
+    "432": {
+        "feature_name": "NearestExonJB_distance",
+        "description": "Distance to nearest exon junction boundary within 10,000 bps."
+    },
+    "433": {
+        "feature_name": "MMseq2_conservation_score_aa",
+        "description": "MMseq2 based conservation score for aa."
+    },
+    "434": {
+        "feature_name": "gtex_Pituitary",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "435": {
+        "feature_name": "DFLpredScore_aa_window_3_prev",
+        "description": "Mean prediction of disordered flexible linker for 3 residue window before variant."
+    },
+    "436": {
+        "feature_name": "mamPhyloP",
+        "description": "Mammalian PhyloP score (excl. human)."
+    },
+    "437": {
+        "feature_name": "priPhyloP",
+        "description": "Primate PhyloP score (excl. human)."
+    },
+    "438": {
+        "feature_name": "DisoRNAscore_aa_window_3_prev",
+        "description": "Mean prediction of disordered RNA binding residues for 3 residue window before variant."
+    },
+    "439": {
+        "feature_name": "DisoPROscore_aa_window_8_next",
+        "description": "Mean prediction of disordered protein binding residues for 8 residue window after variant."
+    },
+    "440": {
+        "feature_name": "CADD_raw",
+        "description": ""
+    },
+    "441": {
+        "feature_name": "Conservation",
+        "description": "GERP scores from the EPO 35 way mammalian alignment. "
+    },
+    "442": {
+        "feature_name": "fathmm_MKL_coding_score",
+        "description": "FATHMM-MKL score."
+    },
+    "443": {
+        "feature_name": "PSIPRED_strand_aa_window_3_next",
+        "description": "Mean prediction of protein strands for 3 residue window after variant."
+    },
+    "444": {
+        "feature_name": "DisoDNAscore_aa_window_15_prev",
+        "description": "Mean prediction of disordered DNA binding residues for 15 residue window before variant."
+    },
+    "445": {
+        "feature_name": "SCRIBERscore_aa_window_3_next",
+        "description": "Mean prediction of protein binding residues for 3 residue window after variant."
+    },
+    "446": {
+        "feature_name": "DRNApredRNAscore_aa_window_15_prev",
+        "description": "Mean prediction of RNA binding residues for 15 residue window before variant."
+    },
+    "447": {
+        "feature_name": "ada_score",
+        "description": "dbscSNV adaboost meta-predictor for spice-altering variants. "
+    },
+    "448": {
+        "feature_name": "gtex_Whole_Blood",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "449": {
+        "feature_name": "ppi_combined_25",
+        "description": ""
+    },
+    "450": {
+        "feature_name": "Sngl1000bp",
+        "description": "Number of single occurence BRAVO SNV in 1000 bp window nearby."
+    },
+    "451": {
+        "feature_name": "MOD_RES_DESCRIPTION",
+        "description": ""
+    },
+    "452": {
+        "feature_name": "ppi_combined_45",
+        "description": ""
+    },
+    "453": {
+        "feature_name": "haplo_imputed",
+        "description": "Predicted probability of gene haploinsufficiency with multiple imputation for missing features."
+    },
+    "454": {
+        "feature_name": "polyphen_hbonds",
+        "description": "The number of hydrogen sidechain-sidechain and sidechain-mainchain bonds formed by the residue ."
+    },
+    "455": {
+        "feature_name": "Hydrophobicity",
+        "description": "The change in hydrophobicity resulting from the substitution."
+    },
+    "456": {
+        "feature_name": "ACETYLATION",
+        "description": "PTM."
+    },
+    "457": {
+        "feature_name": "UBIQUITINATION",
+        "description": "PTM."
+    },
+    "458": {
+        "feature_name": "polyphen_score2",
+        "description": "PSIC score for mutant AA residue."
+    },
+    "459": {
+        "feature_name": "S-NITROSYLATION",
+        "description": "PTM."
+    },
+    "460": {
+        "feature_name": "gtex_Skin_-_Sun_Exposed_(Lower_leg)",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "461": {
+        "feature_name": "MMseq2_conservation_level_aa_window_15_next",
+        "description": "MMseq2 based conservation score for 15 residue window after variant."
+    },
+    "462": {
+        "feature_name": "METHYLATION",
+        "description": "PTM."
+    },
+    "463": {
+        "feature_name": "N-GLYCOSYLATION",
+        "description": "PTM."
+    },
+    "464": {
+        "feature_name": "verPhCons",
+        "description": "Vertebrate PhastCons conservation score (excl. human)."
+    },
+    "465": {
+        "feature_name": "Condel_score",
+        "description": "Condel score."
+    },
+    "466": {
+        "feature_name": "phyloP30way_mammalian",
+        "description": "Conservation score based on multiple alignments of 30 mammalian genomes including human."
+    },
+    "467": {
+        "feature_name": "phyloP17way_primate",
+        "description": "Conservation score based on multiple alignments of 17 primate genomes including human."
+    },
+    "468": {
+        "feature_name": "ppi_combined_52",
+        "description": ""
+    },
+    "469": {
+        "feature_name": "Sngl100bp",
+        "description": "Number of single occurrence BRAVO SNV in 100 bp window nearby."
+    },
+    "470": {
+        "feature_name": "phastCons100way_vertebrate",
+        "description": "Conservation score based on multiple alignments of 100 vertebrate genomes including human."
+    },
+    "471": {
+        "feature_name": "polyphen_idpmax",
+        "description": "Maximum congruency of the mutant amino acid residue to all sequences in multiple alignment."
+    },
+    "472": {
+        "feature_name": "gtex_Lung",
+        "description": "GTEx tissue transcripts per million."
+    },
+    "473": {
+        "feature_name": "GenoCanyon_score",
+        "description": "Prediction of the functional potential at each nucleotide"
+    },
+    "474": {
+        "feature_name": "EncodeH3K9ac-sum",
+        "description": "Sum of Encode H3K9ac levels (from 13 cell lines)."
+    },
+    "475": {
+        "feature_name": "phastCons17way_primate",
+        "description": "Conservation score based on multiple alignments of 17 primate genomes including human."
+    },
+    "476": {
+        "feature_name": "haplo",
+        "description": "Predicted probability of gene haploinsufficiency."
+    },
+    "477": {
+        "feature_name": "BIOTYPE",
+        "description": "Biotype of transcript or regulatory feature."
+    },
+    "478": {
+        "feature_name": "Dominant_probability",
+        "description": "Prediction of variants pathogenic for autosomal dominant disease."
+    },
+    "479": {
+        "feature_name": "integrated_fitCons_score",
+        "description": "fitCons score based on three cell types."
+    },
+    "480": {
+        "feature_name": "Clarks_distance",
+        "description": "Estimate of the amino acid composition complexity of each protein."
+    },
+    "481": {
+        "feature_name": "EncodeH3K27ac-max",
+        "description": "Maximum of Encode H3K27ac levels (from 14 cell lines)."
+    },
+    "482": {
+        "feature_name": "Polarity",
+        "description": "Polarity change from reference to mutation amino acid residue."
+    },
+    "483": {
+        "feature_name": "polyphen_dprop",
+        "description": "Change in solvent accessible surface propensity resulting from the substitution."
+    },
+    "484": {
+        "feature_name": "polyphen_normasa",
+        "description": "Normalized accessible surface area."
+    },
+    "485": {
+        "feature_name": "motifEHIPos",
+        "description": "Is the position considered highly informative for an overlapping motif by VEP?"
+    },
+    "486": {
+        "feature_name": "Freq1000bp",
+        "description": "Number of frequent (MAF > 0.05) BRAVO SNV in 1000 bp window nearby."
+    },
+    "487": {
+        "feature_name": "Rare1000bp",
+        "description": "Number of rare (MAF < 0.05) BRAVO SNV in 1000 bp window nearby."
+    },
+    "488": {
+        "feature_name": "DRNApredRNAscore_aa_window_3_prev",
+        "description": "Mean prediction of RNA binding residues for 3 residue window before variant."
+    },
+    "489": {
+        "feature_name": "polyphen_mindint",
+        "description": "Closest residue contact with other chain, \u00c5."
+    },
+    "490": {
+        "feature_name": "Ex",
+        "description": "Amino acid substitution score from the EX matrix."
+    },
+    "491": {
+        "feature_name": "DisoDNAscore_aa_window_8_prev",
+        "description": "Mean prediction of disordered DNA binding residues for 8 residue window before variant."
+    },
+    "492": {
+        "feature_name": "polyphen_idqmin",
+        "description": "Query sequence identity with the closest homologue deviating from the wild type amino acid residue."
+    },
+    "493": {
+        "feature_name": "GM12878_fitCons_score",
+        "description": "fitCons score based on cell type GM12878."
+    },
+    "494": {
+        "feature_name": "REGION_DESCRIPTION",
+        "description": "Uniprot region description."
+    },
+    "495": {
+        "feature_name": "EncodeH2AFZ-max",
+        "description": "Maximum of Encode H2AFZ levels (from 13 cell lines)."
+    },
+    "496": {
+        "feature_name": "EncodeH3K4me1-max",
+        "description": "Maximum of Encode H3K4me1 levels (from 13 cell lines)."
+    },
+    "497": {
+        "feature_name": "EncodeH3K4me2-sum",
+        "description": "Sum of Encode H3K4me2 levels (from 14 cell lines)."
+    },
+    "498": {
+        "feature_name": "MSC_95CI",
+        "description": "The lower boundary of the 95% confidence interval generated by CADD for a gene."
+    },
+    "499": {
+        "feature_name": "VB",
+        "description": "Amino acid substitution score from the VB matrix."
+    }
+}

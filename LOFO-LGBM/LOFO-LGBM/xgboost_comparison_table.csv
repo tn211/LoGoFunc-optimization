@@ -1,0 +1,16 @@
+Metric,LightGBM
+Best Model (# of features),358.0
+GOF Precision,0.58
+LOF Precision,0.9
+Neutral Precision,0.93
+GOF Recall,0.77
+LOF Recall,0.88
+Neutral Recall,0.92
+GOF F1,0.66
+LOF F1,0.89
+Neutral F1,0.92
+GOF MCC,0.6444
+LOF MCC,0.791
+Neutral MCC,0.854
+Top 10 Score Range,0.8169 - 0.8156
+Best Model Score Range,0.8116 - 0.9495
