@@ -12,7 +12,7 @@ The full dissertation [can be found here. (PDF)](T_Nichols_Dissertation.pdf)
 1. I used two conda environments for this project. `logofunc3` has the versions of Scikit-learn and other packages that are specified in the LoGoFunc documentation. This environment should be used for all of the training and testing procedures.
 2. The other environment is `tabulate` which I used for all of the data analysis and graphing operations. 
 3. The table that describes all of the notebooks contains a column that specifies which environment should be used to run those blocks of code.
-4. I exported the packages I explicitly installed for each environment using the `conda env export --from-history > *.yml` command, so it should install the required packages regardless if platform when you run `conda env create -f {env name}.yml`. The YAML files are in the `Conda env` directory.
+4. I exported the packages I explicitly installed for each environment using the `conda env export --from-history > *.yml` command, so it should install the required packages regardless of platform when you run `conda env create -f {env name}.yml`. The YAML files are in the `Conda env` directory.
 5. If for some reason this does not work these are the packages required by LoGoFunc:
 
 
